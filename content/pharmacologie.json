@@ -36,7 +36,124 @@
     { "type": "qcm", "niveau": "expert", "question": "L'effet de premier passage hépatique diminue :", "choix": ["La demi-vie", "La biodisponibilité", "Le Vd", "La clairance"], "reponse": 1, "explication": "Le premier passage hépatique diminue la biodisponibilité." },
     { "type": "vf", "niveau": "expert", "question": "Une enzyme inductrice peut diminuer l'efficacité d'un médicament.", "reponse": true, "explication": "Induction enzymatique → métabolisme accéléré." },
     { "type": "qcm", "niveau": "expert", "question": "La concentration plasmatique à l'état d'équilibre dépend :", "choix": ["Dose administrée", "Clairance", "Intervalle d'administration", "Toutes les réponses"], "reponse": 3, "explication": "L'état d'équilibre dépend de tous ces paramètres." },
-    { "type": "vf", "niveau": "expert", "question": "Une insuffisance hépatique peut augmenter le risque de surdosage.", "reponse": true, "explication": "Le métabolisme hépatique diminué favorise l'accumulation." }
+    { "type": "vf", "niveau": "expert", "question": "Une insuffisance hépatique peut augmenter le risque de surdosage.", "reponse": true, "explication": "Le métabolisme hépatique diminué favorise l'accumulation." },{ "type": "qcm", "niveau": "expert", "question": "L’absorption correspond :", "choix": ["Élimination rénale", "Passage médicament vers circulation", "Métabolisme hépatique", "Stockage tissulaire"], "reponse": 1, "explication": "L’absorption correspond au passage du médicament dans la circulation sanguine." },
+
+{ "type": "vf", "niveau": "expert", "question": "La voie intraveineuse a une biodisponibilité de 100%.", "reponse": true, "explication": "Le médicament arrive directement dans la circulation." },
+
+{ "type": "qcm", "niveau": "expert", "question": "La biodisponibilité est :", "choix": ["Volume distribué", "Fraction absorbée active", "Temps demi-vie", "Clairance rénale"], "reponse": 1, "explication": "La biodisponibilité est la fraction du médicament qui atteint la circulation systémique." },
+
+{ "type": "vf", "niveau": "expert", "question": "Le premier passage hépatique diminue la biodisponibilité.", "reponse": true, "explication": "Une partie du médicament est métabolisée par le foie avant circulation." },
+
+{ "type": "qcm", "niveau": "expert", "question": "La demi-vie correspond :", "choix": ["Temps élimination totale", "Temps pour éliminer 50%", "Temps absorption", "Temps distribution"], "reponse": 1, "explication": "La demi-vie est le temps nécessaire pour éliminer 50% du médicament." },
+
+{ "type": "vf", "niveau": "expert", "question": "Après 5 demi-vies, environ 97% du médicament est éliminé.", "reponse": true, "explication": "Règle pharmacocinétique classique." },
+
+{ "type": "qcm", "niveau": "expert", "question": "La clairance correspond :", "choix": ["Volume distribué", "Capacité d’élimination", "Biodisponibilité", "Dose administrée"], "reponse": 1, "explication": "La clairance reflète la capacité de l’organisme à éliminer un médicament." },
+
+{ "type": "vf", "niveau": "expert", "question": "Le rein joue un rôle majeur dans l’élimination des médicaments.", "reponse": true, "explication": "Beaucoup de médicaments sont éliminés par voie rénale." },
+
+{ "type": "qcm", "niveau": "expert", "question": "Le volume de distribution élevé signifie :", "choix": ["Reste dans le sang", "Diffuse dans tissus", "Éliminé rapidement", "Non absorbé"], "reponse": 1, "explication": "Un Vd élevé indique une forte diffusion tissulaire." },
+
+{ "type": "vf", "niveau": "expert", "question": "Un médicament liposoluble diffuse plus facilement dans les tissus.", "reponse": true, "explication": "Les molécules lipophiles traversent mieux les membranes." },
+
+{ "type": "qcm", "niveau": "expert", "question": "Le métabolisme hépatique a lieu principalement :", "choix": ["Rein", "Foie", "Cœur", "Poumon"], "reponse": 1, "explication": "Le foie est l’organe principal du métabolisme médicamenteux." },
+
+{ "type": "vf", "niveau": "expert", "question": "Une insuffisance rénale peut nécessiter une adaptation de dose.", "reponse": true, "explication": "L’élimination est diminuée." },
+
+{ "type": "qcm", "niveau": "expert", "question": "La pharmacodynamie étudie :", "choix": ["Absorption", "Effets du médicament", "Distribution", "Élimination"], "reponse": 1, "explication": "Elle étudie les effets du médicament sur l’organisme." },
+
+{ "type": "vf", "niveau": "expert", "question": "La pharmacocinétique étudie le devenir du médicament.", "reponse": true, "explication": "ADME = devenir du médicament." },
+
+{ "type": "qcm", "niveau": "expert", "question": "Une interaction médicamenteuse peut :", "choix": ["Modifier efficacité", "Modifier toxicité", "Modifier métabolisme", "Toutes les réponses"], "reponse": 3, "explication": "Les interactions peuvent modifier plusieurs paramètres." },
+
+{ "type": "vf", "niveau": "expert", "question": "Un médicament fortement lié aux protéines plasmatiques peut être déplacé par un autre.", "reponse": true, "explication": "Compétition au niveau albumine." },
+
+{ "type": "qcm", "niveau": "expert", "question": "La voie sublinguale évite :", "choix": ["Absorption", "Distribution", "Premier passage hépatique", "Élimination"], "reponse": 2, "explication": "Elle passe directement dans circulation systémique." },
+
+{ "type": "vf", "niveau": "expert", "question": "La voie orale est soumise au premier passage hépatique.", "reponse": true, "explication": "Une partie du médicament est métabolisée avant circulation." },
+
+{ "type": "qcm", "niveau": "expert", "question": "Une accumulation médicamenteuse survient si :", "choix": ["Clairance élevée", "Clairance diminuée", "Demi-vie courte", "Biodisponibilité faible"], "reponse": 1, "explication": "Si élimination diminuée → accumulation." },
+
+{ "type": "vf", "niveau": "expert", "question": "La toxicité augmente si la concentration plasmatique dépasse la fenêtre thérapeutique.", "reponse": true, "explication": "Dépassement concentration efficace sûre." },{ "type": "qcm", "niveau": "expert", "question": "L’INR est utilisé pour surveiller :", "choix": ["HBPM", "AVK", "AINS", "Paracétamol"], "reponse": 1, "explication": "L’INR permet la surveillance des antivitamines K." },
+
+{ "type": "vf", "niveau": "expert", "question": "Un INR élevé augmente le risque hémorragique.", "reponse": true, "explication": "Plus l’INR est élevé, plus le sang est anticoagulé." },
+
+{ "type": "qcm", "niveau": "expert", "question": "Le TCA est utilisé pour surveiller :", "choix": ["HBPM", "HNF", "AVK", "Aspirine"], "reponse": 1, "explication": "Le TCA surveille l’héparine non fractionnée." },
+
+{ "type": "vf", "niveau": "expert", "question": "Les HBPM nécessitent une surveillance des plaquettes.", "reponse": true, "explication": "Risque de thrombopénie induite par l’héparine." },
+
+{ "type": "qcm", "niveau": "expert", "question": "Le paracétamol est :", "choix": ["AINS", "Antalgique palier 1", "Opioïde fort", "Anticoagulant"], "reponse": 1, "explication": "Le paracétamol est un antalgique de palier 1." },
+
+{ "type": "vf", "niveau": "expert", "question": "La dose maximale adulte de paracétamol est 4 g/24h.", "reponse": true, "explication": "Maximum 4 g par jour chez l’adulte." },
+
+{ "type": "qcm", "niveau": "expert", "question": "Chez la personne âgée, la dose maximale de paracétamol est :", "choix": ["2 g/24h", "3 g/24h", "4 g/24h", "5 g/24h"], "reponse": 1, "explication": "Recommandation : 3 g maximum chez le sujet âgé." },
+
+{ "type": "vf", "niveau": "expert", "question": "Une intoxication au paracétamol peut entraîner une hépatotoxicité.", "reponse": true, "explication": "Risque de nécrose hépatique." },
+
+{ "type": "qcm", "niveau": "expert", "question": "L’antidote du paracétamol est :", "choix": ["Vitamine K", "N-acétylcystéine", "Protamine", "Flumazénil"], "reponse": 1, "explication": "La N-acétylcystéine est l’antidote spécifique." },
+
+{ "type": "vf", "niveau": "expert", "question": "Les AINS augmentent le risque d’ulcère gastrique.", "reponse": true, "explication": "Ils inhibent la synthèse des prostaglandines protectrices." },
+
+{ "type": "qcm", "niveau": "expert", "question": "Les AINS peuvent provoquer :", "choix": ["Insuffisance rénale", "Troubles digestifs", "Risque hémorragique", "Toutes les réponses"], "reponse": 3, "explication": "Les AINS ont des effets digestifs, rénaux et hémorragiques." },
+
+{ "type": "vf", "niveau": "expert", "question": "L’association AINS + AVK augmente le risque hémorragique.", "reponse": true, "explication": "Double effet sur hémostase primaire et secondaire." },
+
+{ "type": "qcm", "niveau": "expert", "question": "L’aspirine agit principalement sur :", "choix": ["Coagulation secondaire", "Agrégation plaquettaire", "Facteurs vitamine K", "Fibrinolyse"], "reponse": 1, "explication": "Elle inhibe l’agrégation plaquettaire." },
+
+{ "type": "vf", "niveau": "expert", "question": "La morphine est un antalgique de palier 3.", "reponse": true, "explication": "Les opioïdes forts appartiennent au palier 3." },
+
+{ "type": "qcm", "niveau": "expert", "question": "Un effet indésirable grave doit être :", "choix": ["Ignoré", "Déclaré", "Arrêté sans surveillance", "Automatiquement poursuivi"], "reponse": 1, "explication": "Les effets indésirables graves doivent être déclarés." },
+
+{ "type": "vf", "niveau": "expert", "question": "Les AVK agissent en inhibant la vitamine K.", "reponse": true, "explication": "Ils diminuent la synthèse des facteurs II, VII, IX, X." },
+
+{ "type": "qcm", "niveau": "expert", "question": "La protamine est l’antidote :", "choix": ["AVK", "HBPM", "HNF", "Aspirine"], "reponse": 2, "explication": "La protamine neutralise l’héparine non fractionnée." },
+
+{ "type": "vf", "niveau": "expert", "question": "Une hématémèse peut être un effet secondaire des AINS.", "reponse": true, "explication": "Les AINS favorisent les saignements digestifs." },
+
+{ "type": "qcm", "niveau": "expert", "question": "Le risque principal d’un traitement anticoagulant est :", "choix": ["Hyperglycémie", "Hémorragie", "Hypertension", "Hyperkaliémie"], "reponse": 1, "explication": "Le principal risque est l’hémorragie." },
+
+{ "type": "vf", "niveau": "expert", "question": "Un INR thérapeutique est souvent compris entre 2 et 3.", "reponse": true, "explication": "Cible habituelle dans la plupart des indications." },{ "type": "qcm", "niveau": "expert", "question": "On prescrit 1 g de paracétamol. Les comprimés sont dosés à 500 mg. Combien de comprimés faut-il administrer ?", "choix": ["1", "2", "3", "4"], "reponse": 1, "explication": "1 g = 1000 mg. 1000 / 500 = 2 comprimés." },
+
+{ "type": "vf", "niveau": "expert", "question": "1 g correspond à 1000 mg.", "reponse": true, "explication": "Conversion standard : 1 g = 1000 mg." },
+
+{ "type": "qcm", "niveau": "expert", "question": "On doit perfuser 500 mL en 4 heures. Quel est le débit horaire ?", "choix": ["100 mL/h", "125 mL/h", "150 mL/h", "200 mL/h"], "reponse": 1, "explication": "500 mL ÷ 4 h = 125 mL/h." },
+
+{ "type": "vf", "niveau": "expert", "question": "Pour calculer un débit en mL/h, on divise le volume par le temps.", "reponse": true, "explication": "Débit = Volume ÷ Temps." },
+
+{ "type": "qcm", "niveau": "expert", "question": "Une perfusion de 120 mL doit passer en 1 heure avec un perfuseur 20 gouttes/mL. Combien de gouttes/min ?", "choix": ["20", "30", "40", "50"], "reponse": 2, "explication": "120 × 20 = 2400 gouttes. 2400 ÷ 60 = 40 gouttes/min." },
+
+{ "type": "vf", "niveau": "expert", "question": "La formule gouttes/min = (Volume × facteur goutte) ÷ temps en minutes.", "reponse": true, "explication": "Formule standard pour calcul débit gravitaire." },
+
+{ "type": "qcm", "niveau": "expert", "question": "On prescrit 250 mg. Ampoule disponible : 500 mg/2 mL. Quel volume injecter ?", "choix": ["0,5 mL", "1 mL", "1,5 mL", "2 mL"], "reponse": 1, "explication": "500 mg dans 2 mL → 250 mg dans 1 mL." },
+
+{ "type": "vf", "niveau": "expert", "question": "Une dose exprimée en mg/kg doit être adaptée au poids du patient.", "reponse": true, "explication": "Calcul = dose × poids." },
+
+{ "type": "qcm", "niveau": "expert", "question": "Prescription : 10 mg/kg. Patient 70 kg. Dose totale ?", "choix": ["500 mg", "600 mg", "700 mg", "800 mg"], "reponse": 2, "explication": "10 × 70 = 700 mg." },
+
+{ "type": "vf", "niveau": "expert", "question": "0,5 g correspond à 500 mg.", "reponse": true, "explication": "0,5 g = 500 mg." },
+
+{ "type": "qcm", "niveau": "expert", "question": "Prescription : 1 L sur 8 h. Débit en mL/h ?", "choix": ["100", "110", "120", "125"], "reponse": 3, "explication": "1000 mL ÷ 8 h = 125 mL/h." },
+
+{ "type": "vf", "niveau": "expert", "question": "1 mL correspond toujours à 1 mg.", "reponse": false, "explication": "Cela dépend de la concentration de la solution." },
+
+{ "type": "qcm", "niveau": "expert", "question": "Ampoule : 1 g/10 mL. Concentration ?", "choix": ["10 mg/mL", "100 mg/mL", "1000 mg/mL", "1 mg/mL"], "reponse": 1, "explication": "1 g = 1000 mg. 1000 ÷ 10 = 100 mg/mL." },
+
+{ "type": "vf", "niveau": "expert", "question": "Une erreur de conversion peut entraîner un surdosage.", "reponse": true, "explication": "Les erreurs de calcul peuvent être graves." },
+
+{ "type": "qcm", "niveau": "expert", "question": "Prescription : 300 mL sur 3 h. Débit ?", "choix": ["50 mL/h", "75 mL/h", "100 mL/h", "125 mL/h"], "reponse": 2, "explication": "300 ÷ 3 = 100 mL/h." },
+
+{ "type": "vf", "niveau": "expert", "question": "Un débit trop rapide peut provoquer des complications.", "reponse": true, "explication": "Risque surcharge circulatoire." },
+
+{ "type": "qcm", "niveau": "expert", "question": "Prescription : 15 mg/kg pour un patient de 60 kg. Dose totale ?", "choix": ["750 mg", "800 mg", "850 mg", "900 mg"], "reponse": 3, "explication": "15 × 60 = 900 mg." },
+
+{ "type": "vf", "niveau": "expert", "question": "Le calcul de dose fait partie du rôle propre infirmier.", "reponse": false, "explication": "Le calcul de dose relève de l’administration sur prescription médicale." },
+
+{ "type": "qcm", "niveau": "expert", "question": "Prescription : 100 mL en 30 min. Débit mL/h ?", "choix": ["150", "180", "200", "220"], "reponse": 2, "explication": "100 mL en 30 min = 200 mL/h." },
+
+{ "type": "vf", "niveau": "expert", "question": "Vérifier les 5B permet de sécuriser l’administration médicamenteuse.", "reponse": true, "explication": "Bon patient, bon médicament, bonne dose, bonne voie, bon moment." }
+
+
+
 
   ]
 }
