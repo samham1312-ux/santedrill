@@ -71,7 +71,7 @@ export default function DomainesPage() {
             Choisissez votre <span className="text-gradient">domaine</span>
           </h1>
           <p className="text-xl text-gray-600">
-            8 domaines transversaux • 3 niveaux de difficulté
+            9 domaines transversaux • 3 niveaux de difficulté
           </p>
         </div>
         
