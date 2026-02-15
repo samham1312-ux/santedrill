@@ -39,7 +39,26 @@
 
     { "type": "qcm", "niveau": "expert", "question": "Le FAST est :", "choix": ["Un traitement", "Une échographie d’urgence", "Un médicament", "Un score"], "reponse": 1, "explication": "FAST = échographie rapide en traumatologie." },
 
-    { "type": "vf", "niveau": "expert", "question": "Une fracture du col du fémur peut provoquer une rotation externe du membre.", "reponse": true, "explication": "Signe clinique classique." }
+    { "type": "vf", "niveau": "expert", "question": "Une fracture du col du fémur peut provoquer une rotation externe du membre.", "reponse": true, "explication": "Signe clinique classique." },{ "type": "vf", "niveau": "facile", "question": "Une fracture correspond à une rupture de l’os.", "reponse": true, "explication": "Une fracture est une solution de continuité de l’os." },
+
+{ "type": "qcm", "niveau": "facile", "question": "Une entorse touche principalement :", "choix": ["Les os", "Les ligaments", "Les muscles", "Les nerfs"], "reponse": 1, "explication": "Une entorse correspond à une atteinte ligamentaire." },
+
+{ "type": "vf", "niveau": "facile", "question": "Une luxation est une perte de contact entre deux surfaces articulaires.", "reponse": true, "explication": "La luxation est un déplacement articulaire complet." },
+
+{ "type": "qcm", "niveau": "facile", "question": "Le premier élément évalué en urgence est :", "choix": ["La douleur", "Les voies aériennes", "La glycémie", "La température"], "reponse": 1, "explication": "Airway est prioritaire dans l’évaluation initiale." },
+
+{ "type": "vf", "niveau": "facile", "question": "Un saignement abondant doit être pris en charge rapidement.", "reponse": true, "explication": "Le risque principal est le choc hémorragique." },
+
+{ "type": "qcm", "niveau": "facile", "question": "Un hématome correspond à :", "choix": ["Une infection", "Un saignement sous la peau", "Une fracture", "Une brûlure"], "reponse": 1, "explication": "Un hématome est une accumulation de sang sous la peau." },
+
+{ "type": "vf", "niveau": "facile", "question": "Une douleur intense après un traumatisme doit être surveillée.", "reponse": true, "explication": "La douleur peut révéler une complication." },
+
+{ "type": "qcm", "niveau": "facile", "question": "Un plâtre sert principalement à :", "choix": ["Diminuer la douleur", "Immobiliser un membre", "Désinfecter", "Réchauffer"], "reponse": 1, "explication": "Le plâtre permet l’immobilisation d’une fracture." },
+
+{ "type": "vf", "niveau": "facile", "question": "Un traumatisme crânien peut entraîner des vomissements.", "reponse": true, "explication": "Les vomissements sont un signe d’alerte neurologique." },
+
+{ "type": "qcm", "niveau": "facile", "question": "Une brûlure est un type de :", "choix": ["Traumatisme", "Infection", "Maladie chronique", "Allergie"], "reponse": 0, "explication": "La brûlure est un traumatisme cutané." }
+
 
   ]
 }
