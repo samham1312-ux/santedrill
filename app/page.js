@@ -116,7 +116,7 @@ export default function Home() {
             Prêt à commencer ?
           </h2>
           <p className="text-xl text-white/90 mb-10">
-            8 domaines • 240 questions • 3 niveaux de difficulté
+            9 domaines • + questions • 3 niveaux de difficulté
           </p>
           <Link 
             href="/domaines"
