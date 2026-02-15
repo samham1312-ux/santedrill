@@ -1,0 +1,274 @@
+{
+  "questions": [
+    {
+      "type": "vf",
+      "niveau": "facile",
+      "question": "Les précautions standard s'appliquent uniquement aux patients infectés.",
+      "reponse": false,
+      "explication": "Les précautions standard s'appliquent à tous les patients, quel que soit leur statut infectieux."
+    },
+    {
+      "type": "qcm",
+      "niveau": "facile",
+      "question": "Le principal vecteur de transmission des infections nosocomiales est :",
+      "choix": ["L'air", "L'eau", "Les mains du soignant", "Les surfaces"],
+      "reponse": 2,
+      "explication": "Les mains des soignants sont le principal vecteur de transmission des infections associées aux soins."
+    },
+    {
+      "type": "vf",
+      "niveau": "facile",
+      "question": "La friction hydroalcoolique est efficace sur des mains visiblement souillées.",
+      "reponse": false,
+      "explication": "Si les mains sont visiblement souillées, un lavage à l'eau et au savon est nécessaire."
+    },
+    {
+      "type": "qcm",
+      "niveau": "facile",
+      "question": "Les DASRI signifient :",
+      "choix": [
+        "Déchets Alimentaires Spécifiques à Risque Infectieux",
+        "Déchets d'Activités de Soins à Risque Infectieux",
+        "Déchets Administratifs de Santé",
+        "Dispositifs d'Asepsie et de Stérilisation"
+      ],
+      "reponse": 1,
+      "explication": "DASRI = Déchets d'Activités de Soins à Risque Infectieux."
+    },
+    {
+      "type": "vf",
+      "niveau": "facile",
+      "question": "Un AES signifie Accident d'Exposition au Sang.",
+      "reponse": true,
+      "explication": "AES = Accident d'Exposition au Sang."
+    },
+    {
+      "type": "qcm",
+      "niveau": "facile",
+      "question": "Le port de gants remplace l'hygiène des mains.",
+      "choix": ["Toujours", "Jamais", "Seulement en isolement", "Seulement en chirurgie"],
+      "reponse": 1,
+      "explication": "Le port de gants ne remplace jamais l'hygiène des mains."
+    },
+    {
+      "type": "vf",
+      "niveau": "facile",
+      "question": "Les précautions complémentaires s'ajoutent aux précautions standard.",
+      "reponse": true,
+      "explication": "Les précautions complémentaires viennent en plus des précautions standard."
+    },
+    {
+      "type": "qcm",
+      "niveau": "facile",
+      "question": "Le masque chirurgical protège principalement :",
+      "choix": ["Le patient", "Le soignant", "Les deux", "Personne"],
+      "reponse": 0,
+      "explication": "Le masque chirurgical protège principalement l'entourage des projections du porteur."
+    },
+    {
+      "type": "vf",
+      "niveau": "facile",
+      "question": "Un isolement contact nécessite le port de gants et surblouse.",
+      "reponse": true,
+      "explication": "En isolement contact, gants et surblouse sont requis."
+    },
+    {
+      "type": "qcm",
+      "niveau": "facile",
+      "question": "La désinfection concerne :",
+      "choix": ["Les tissus vivants", "Les surfaces inertes", "Le sang uniquement", "Les organes"],
+      "reponse": 1,
+      "explication": "La désinfection concerne les surfaces inertes. L'antisepsie concerne les tissus vivants."
+    },
+    {
+      "type": "qcm",
+      "niveau": "intermediaire",
+      "question": "Une infection associée aux soins (IAS) est définie comme :",
+      "choix": [
+        "Une infection présente à l'admission",
+        "Une infection contractée uniquement en bloc opératoire",
+        "Une infection survenue au cours ou au décours d'une prise en charge",
+        "Une infection obligatoirement nosocomiale"
+      ],
+      "reponse": 2,
+      "explication": "Une IAS survient au cours ou au décours d'une prise en charge diagnostique, thérapeutique ou préventive."
+    },
+    {
+      "type": "vf",
+      "niveau": "intermediaire",
+      "question": "La friction hydroalcoolique est inefficace sur les spores de Clostridioides difficile.",
+      "reponse": true,
+      "explication": "Les spores résistent aux SHA. Un lavage à l'eau et au savon est nécessaire."
+    },
+    {
+      "type": "qcm",
+      "niveau": "intermediaire",
+      "question": "En cas d'AES, la première action est :",
+      "choix": [
+        "Faire saigner la plaie",
+        "Désinfecter immédiatement sans lavage",
+        "Laver abondamment à l'eau et au savon",
+        "Prévenir le cadre avant tout"
+      ],
+      "reponse": 2,
+      "explication": "En cas d'AES, il faut laver immédiatement à l'eau et au savon, puis désinfecter."
+    },
+    {
+      "type": "vf",
+      "niveau": "intermediaire",
+      "question": "Le port de masque FFP2 est recommandé pour la tuberculose pulmonaire.",
+      "reponse": true,
+      "explication": "La tuberculose nécessite des précautions air avec port de FFP2."
+    },
+    {
+      "type": "qcm",
+      "niveau": "intermediaire",
+      "question": "Les précautions gouttelettes concernent principalement :",
+      "choix": [
+        "La grippe",
+        "La gale",
+        "Le Clostridium difficile",
+        "Les infections urinaires"
+      ],
+      "reponse": 0,
+      "explication": "La grippe nécessite des précautions gouttelettes."
+    },
+    {
+      "type": "vf",
+      "niveau": "intermediaire",
+      "question": "Un isolement protecteur vise à protéger le patient immunodéprimé.",
+      "reponse": true,
+      "explication": "L'isolement protecteur protège le patient fragile contre les agents extérieurs."
+    },
+    {
+      "type": "qcm",
+      "niveau": "intermediaire",
+      "question": "La durée de conservation des DASRI dans un service dépend :",
+      "choix": [
+        "Du nombre de patients",
+        "Du volume produit",
+        "Du type de pathologie",
+        "Du nombre de soignants"
+      ],
+      "reponse": 1,
+      "explication": "La durée de stockage des DASRI dépend du volume produit."
+    },
+    {
+      "type": "vf",
+      "niveau": "intermediaire",
+      "question": "La désinfection de haut niveau détruit tous les micro-organismes sauf les spores.",
+      "reponse": true,
+      "explication": "Seule la stérilisation détruit les spores bactériennes."
+    },
+    {
+      "type": "qcm",
+      "niveau": "intermediaire",
+      "question": "Une hémoculture doit être réalisée :",
+      "choix": [
+        "Après antibiothérapie",
+        "Avant antibiothérapie",
+        "Uniquement si fièvre > 40°C",
+        "Après 48h d'hospitalisation"
+      ],
+      "reponse": 1,
+      "explication": "Les hémocultures doivent être réalisées avant l'antibiothérapie."
+    },
+    {
+      "type": "vf",
+      "niveau": "intermediaire",
+      "question": "Le circuit du linge sale doit croiser le circuit du linge propre.",
+      "reponse": false,
+      "explication": "Les circuits propre et sale doivent être séparés pour éviter la contamination croisée."
+    },
+    {
+      "type": "qcm",
+      "niveau": "expert",
+      "question": "Concernant les infections du site opératoire (ISO), le délai maximal de survenue après une chirurgie avec pose de prothèse est :",
+      "choix": ["30 jours", "6 mois", "1 an", "5 ans"],
+      "reponse": 2,
+      "explication": "Une infection du site opératoire peut être reconnue jusqu'à 1 an après une intervention avec pose de matériel prothétique."
+    },
+    {
+      "type": "vf",
+      "niveau": "expert",
+      "question": "La friction hydroalcoolique est prioritaire sur le lavage simple si les mains ne sont pas visiblement souillées.",
+      "reponse": true,
+      "explication": "La SHA est recommandée en première intention sur mains propres et sèches."
+    },
+    {
+      "type": "qcm",
+      "niveau": "expert",
+      "question": "Dans le cadre d'un isolement air, la chambre doit :",
+      "choix": [
+        "Être en pression positive",
+        "Être en pression négative",
+        "Avoir la porte toujours ouverte",
+        "Ne pas avoir de système d'aération"
+      ],
+      "reponse": 1,
+      "explication": "Un isolement air nécessite une chambre en pression négative pour éviter la diffusion des particules infectieuses."
+    },
+    {
+      "type": "vf",
+      "niveau": "expert",
+      "question": "Le port de gants dispense de la désinfection des mains après leur retrait.",
+      "reponse": false,
+      "explication": "L'hygiène des mains est obligatoire après le retrait des gants."
+    },
+    {
+      "type": "qcm",
+      "niveau": "expert",
+      "question": "Lors d'une hémoculture, le volume optimal par flacon chez l'adulte est :",
+      "choix": ["2 mL", "5 mL", "10 mL", "20 mL"],
+      "reponse": 2,
+      "explication": "Le volume recommandé est d'environ 10 mL par flacon chez l'adulte."
+    },
+    {
+      "type": "vf",
+      "niveau": "expert",
+      "question": "La stérilisation détruit tous les micro-organismes, y compris les spores.",
+      "reponse": true,
+      "explication": "La stérilisation est le seul procédé permettant la destruction totale des micro-organismes, spores comprises."
+    },
+    {
+      "type": "qcm",
+      "niveau": "expert",
+      "question": "La gestion des AES impose un signalement :",
+      "choix": [
+        "Uniquement si le patient est VIH+",
+        "Toujours, quel que soit le statut sérologique connu",
+        "Seulement en cas de blessure profonde",
+        "Seulement si le soignant est vacciné"
+      ],
+      "reponse": 1,
+      "explication": "Tout AES doit faire l'objet d'un signalement et d'une prise en charge adaptée."
+    },
+    {
+      "type": "vf",
+      "niveau": "expert",
+      "question": "La séparation des circuits propre/sale est un principe fondamental de prévention des IAS.",
+      "reponse": true,
+      "explication": "La séparation des circuits limite la contamination croisée."
+    },
+    {
+      "type": "qcm",
+      "niveau": "expert",
+      "question": "Concernant Clostridioides difficile, la précaution complémentaire adaptée est :",
+      "choix": [
+        "Précaution air",
+        "Précaution gouttelettes",
+        "Précaution contact entérique",
+        "Aucune précaution spécifique"
+      ],
+      "reponse": 2,
+      "explication": "C. difficile nécessite une précaution contact entérique en raison des spores."
+    },
+    {
+      "type": "vf",
+      "niveau": "expert",
+      "question": "Une désinfection de bas niveau est suffisante pour un matériel entrant en contact avec une muqueuse.",
+      "reponse": false,
+      "explication": "Un matériel en contact avec une muqueuse nécessite au minimum une désinfection de haut niveau."
+    }
+  ]
+}

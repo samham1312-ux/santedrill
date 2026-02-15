@@ -1,0 +1,36 @@
+{
+  "questions": [
+    { "type": "qcm", "niveau": "facile", "question": "La résilience correspond :", "choix": ["À une maladie mentale", "À la capacité d'adaptation face à l'adversité", "À un trouble du comportement", "À une dépendance affective"], "reponse": 1, "explication": "La résilience est la capacité à se reconstruire après une épreuve." },
+    { "type": "vf", "niveau": "facile", "question": "Le déni est un mécanisme de défense.", "reponse": true, "explication": "Le déni est un mécanisme de défense psychologique." },
+    { "type": "qcm", "niveau": "facile", "question": "L'empathie correspond :", "choix": ["À juger", "À comprendre sans juger", "À conseiller", "À imposer"], "reponse": 1, "explication": "L'empathie consiste à comprendre sans juger." },
+    { "type": "vf", "niveau": "facile", "question": "La psychologie sociale étudie l'influence du groupe.", "reponse": true, "explication": "Elle analyse l'influence sociale." },
+    { "type": "qcm", "niveau": "facile", "question": "Le conformisme correspond :", "choix": ["Refus du groupe", "Adaptation au groupe", "Isolement social", "Révolte"], "reponse": 1, "explication": "Le conformisme est l'adaptation aux normes du groupe." },
+    { "type": "vf", "niveau": "facile", "question": "La réactance est une résistance à la perte de liberté.", "reponse": true, "explication": "La réactance apparaît lorsqu'on perçoit une menace sur sa liberté." },
+    { "type": "qcm", "niveau": "facile", "question": "L'entretien motivationnel vise :", "choix": ["À convaincre", "À favoriser l'autonomie", "À imposer", "À sanctionner"], "reponse": 1, "explication": "Il vise à soutenir l'autonomie du patient." },
+    { "type": "vf", "niveau": "facile", "question": "La pudeur concerne le rapport à l'intimité.", "reponse": true, "explication": "La pudeur concerne le rapport au corps et à l'intimité." },
+    { "type": "qcm", "niveau": "facile", "question": "La représentation sociale est :", "choix": ["Une opinion isolée", "Une croyance partagée", "Un trouble psychiatrique", "Un symptôme"], "reponse": 1, "explication": "Une représentation sociale est partagée par un groupe." },
+    { "type": "vf", "niveau": "facile", "question": "L'autonomie psychologique signifie capacité à décider.", "reponse": true, "explication": "L'autonomie implique la capacité à décider pour soi." },
+
+    { "type": "qcm", "niveau": "intermediaire", "question": "Le refoulement correspond :", "choix": ["À nier", "À exclure inconsciemment", "À agresser", "À verbaliser"], "reponse": 1, "explication": "Le refoulement exclut inconsciemment une pensée." },
+    { "type": "vf", "niveau": "intermediaire", "question": "La phase d'ambivalence est centrale en entretien motivationnel.", "reponse": true, "explication": "L'ambivalence est un point clé du changement." },
+    { "type": "qcm", "niveau": "intermediaire", "question": "La résilience dépend :", "choix": ["Uniquement du caractère", "Du soutien social", "De la richesse", "Du hasard"], "reponse": 1, "explication": "Le soutien social favorise la résilience." },
+    { "type": "vf", "niveau": "intermediaire", "question": "L'innéisme considère le développement comme génétiquement programmé.", "reponse": true, "explication": "L'approche innéiste met l'accent sur la génétique." },
+    { "type": "qcm", "niveau": "intermediaire", "question": "Le béhaviorisme met l'accent sur :", "choix": ["L'inconscient", "Les comportements observables", "La génétique", "Les rêves"], "reponse": 1, "explication": "Le béhaviorisme analyse les comportements observables." },
+    { "type": "vf", "niveau": "intermediaire", "question": "L'interactionnisme combine environnement et biologie.", "reponse": true, "explication": "Il associe facteurs biologiques et environnementaux." },
+    { "type": "qcm", "niveau": "intermediaire", "question": "L'alliance thérapeutique repose sur :", "choix": ["Autorité", "Confiance", "Menace", "Hiérarchie"], "reponse": 1, "explication": "La confiance est centrale." },
+    { "type": "vf", "niveau": "intermediaire", "question": "L'écoute active implique reformulation.", "reponse": true, "explication": "Reformuler montre la compréhension." },
+    { "type": "qcm", "niveau": "intermediaire", "question": "Un mécanisme de défense est :", "choix": ["Toujours pathologique", "Un processus inconscient", "Volontaire", "Un symptôme organique"], "reponse": 1, "explication": "Les mécanismes de défense sont inconscients." },
+    { "type": "vf", "niveau": "intermediaire", "question": "Le stress chronique peut avoir un impact somatique.", "reponse": true, "explication": "Le stress influence la santé physique." },
+
+    { "type": "qcm", "niveau": "expert", "question": "La dissonance cognitive correspond :", "choix": ["Accord interne", "Conflit entre croyances et comportements", "Dépression", "Mémoire"], "reponse": 1, "explication": "La dissonance est un conflit interne." },
+    { "type": "vf", "niveau": "expert", "question": "La projection est un mécanisme de défense.", "reponse": true, "explication": "La projection attribue à autrui ses propres affects." },
+    { "type": "qcm", "niveau": "expert", "question": "L'attachement sécure favorise :", "choix": ["Anxiété", "Autonomie", "Dépendance extrême", "Isolement"], "reponse": 1, "explication": "L'attachement sécure favorise l'autonomie." },
+    { "type": "vf", "niveau": "expert", "question": "La maltraitance peut impacter le développement cognitif.", "reponse": true, "explication": "Elle peut altérer le développement." },
+    { "type": "qcm", "niveau": "expert", "question": "La communication non verbale inclut :", "choix": ["Parole", "Posture", "Prescription", "Diagnostic"], "reponse": 1, "explication": "La posture fait partie du non verbal." },
+    { "type": "vf", "niveau": "expert", "question": "Le burnout est un épuisement professionnel.", "reponse": true, "explication": "Le burnout est lié au travail." },
+    { "type": "qcm", "niveau": "expert", "question": "La relation soignant-soigné repose sur :", "choix": ["Pouvoir", "Respect et éthique", "Autorité pure", "Distance totale"], "reponse": 1, "explication": "Elle repose sur respect et éthique." },
+    { "type": "vf", "niveau": "expert", "question": "L'identité professionnelle se construit avec l'expérience.", "reponse": true, "explication": "Elle évolue avec la pratique." },
+    { "type": "qcm", "niveau": "expert", "question": "La motivation intrinsèque vient :", "choix": ["De récompenses externes", "Du plaisir interne", "De la pression sociale", "De la contrainte"], "reponse": 1, "explication": "Elle vient de l'intérêt personnel." },
+    { "type": "vf", "niveau": "expert", "question": "L'effet placebo implique un mécanisme psychologique.", "reponse": true, "explication": "Le placebo implique des mécanismes psychologiques." }
+  ]
+}

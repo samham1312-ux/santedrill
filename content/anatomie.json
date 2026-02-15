@@ -1,0 +1,38 @@
+{
+  "questions": [
+
+    { "type": "qcm", "niveau": "facile", "question": "Le cerveau appartient au système :", "choix": ["Digestif", "Respiratoire", "Nerveux", "Cardiaque"], "reponse": 2, "explication": "Le cerveau fait partie du système nerveux central." },
+    { "type": "vf", "niveau": "facile", "question": "Le fémur est l'os le plus long du corps humain.", "reponse": true, "explication": "Le fémur est l'os le plus long et le plus volumineux." },
+    { "type": "qcm", "niveau": "facile", "question": "Le cœur se situe principalement :", "choix": ["À droite", "À gauche", "Au centre du thorax", "Dans l'abdomen"], "reponse": 2, "explication": "Le cœur est situé dans le médiastin, au centre du thorax." },
+    { "type": "vf", "niveau": "facile", "question": "Les poumons sont au nombre de deux.", "reponse": true, "explication": "Il existe un poumon droit et un poumon gauche." },
+    { "type": "qcm", "niveau": "facile", "question": "Le rein est situé :", "choix": ["Dans le thorax", "Dans le bassin", "Dans la région lombaire", "Dans le crâne"], "reponse": 2, "explication": "Les reins sont situés en région lombaire." },
+    { "type": "vf", "niveau": "facile", "question": "L'estomac appartient au système digestif.", "reponse": true, "explication": "L'estomac est un organe du système digestif." },
+    { "type": "qcm", "niveau": "facile", "question": "La colonne vertébrale est composée de :", "choix": ["10 vertèbres", "20 vertèbres", "33 vertèbres environ", "50 vertèbres"], "reponse": 2, "explication": "La colonne vertébrale comprend environ 33 vertèbres." },
+    { "type": "vf", "niveau": "facile", "question": "Le foie est situé dans l'hypochondre droit.", "reponse": true, "explication": "Le foie est majoritairement situé à droite." },
+    { "type": "qcm", "niveau": "facile", "question": "L'humérus est :", "choix": ["Un os de la jambe", "Un os du bras", "Un os du pied", "Un os du crâne"], "reponse": 1, "explication": "L'humérus est l'os du bras." },
+    { "type": "vf", "niveau": "facile", "question": "Le diaphragme sépare le thorax de l'abdomen.", "reponse": true, "explication": "Le diaphragme est le muscle respiratoire principal." },
+
+    { "type": "qcm", "niveau": "intermediaire", "question": "Le médiastin contient :", "choix": ["Le cœur", "Les poumons", "Le foie", "Les reins"], "reponse": 0, "explication": "Le cœur est situé dans le médiastin." },
+    { "type": "vf", "niveau": "intermediaire", "question": "Le lobe supérieur droit du poumon est au nombre de un.", "reponse": true, "explication": "Le poumon droit comporte 3 lobes." },
+    { "type": "qcm", "niveau": "intermediaire", "question": "La rate est située :", "choix": ["À droite", "À gauche", "Au centre", "Dans le pelvis"], "reponse": 1, "explication": "La rate est située dans l'hypochondre gauche." },
+    { "type": "vf", "niveau": "intermediaire", "question": "Le pancréas est rétro-péritonéal.", "reponse": true, "explication": "Le pancréas est en grande partie rétro-péritonéal." },
+    { "type": "qcm", "niveau": "intermediaire", "question": "Le cervelet est responsable principalement :", "choix": ["De la mémoire", "De la coordination motrice", "De la vision", "De l'audition"], "reponse": 1, "explication": "Le cervelet coordonne les mouvements." },
+    { "type": "vf", "niveau": "intermediaire", "question": "L'artère aorte naît du ventricule gauche.", "reponse": true, "explication": "Elle part du ventricule gauche." },
+    { "type": "qcm", "niveau": "intermediaire", "question": "Le tibia est :", "choix": ["Un os du bras", "Un os de la jambe", "Un os du bassin", "Un os du thorax"], "reponse": 1, "explication": "Le tibia est un os de la jambe." },
+    { "type": "vf", "niveau": "intermediaire", "question": "Les valvules cardiaques empêchent le reflux sanguin.", "reponse": true, "explication": "Les valves empêchent le reflux." },
+    { "type": "qcm", "niveau": "intermediaire", "question": "Le système nerveux central comprend :", "choix": ["Cerveau et moelle épinière", "Nerfs périphériques", "Muscles", "Artères"], "reponse": 0, "explication": "SNC = cerveau + moelle épinière." },
+    { "type": "vf", "niveau": "intermediaire", "question": "Le péricarde entoure le cœur.", "reponse": true, "explication": "Le péricarde est une enveloppe du cœur." },
+
+    { "type": "qcm", "niveau": "expert", "question": "Le segment ST correspond :", "choix": ["À une structure anatomique", "À une phase ECG", "À un os", "À une artère"], "reponse": 1, "explication": "Le segment ST est visible sur l'ECG." },
+    { "type": "vf", "niveau": "expert", "question": "Le cortex cérébral est impliqué dans les fonctions supérieures.", "reponse": true, "explication": "Il est impliqué dans cognition et langage." },
+    { "type": "qcm", "niveau": "expert", "question": "La veine cave supérieure draine :", "choix": ["Les membres inférieurs", "La tête et membres supérieurs", "Le foie", "Les reins"], "reponse": 1, "explication": "Elle draine le sang de la partie supérieure du corps." },
+    { "type": "vf", "niveau": "expert", "question": "Le myocarde est le muscle cardiaque.", "reponse": true, "explication": "Le myocarde est la couche musculaire du cœur." },
+    { "type": "qcm", "niveau": "expert", "question": "Le larynx appartient :", "choix": ["Au système digestif", "Au système respiratoire", "Au système urinaire", "Au système nerveux"], "reponse": 1, "explication": "Le larynx appartient au système respiratoire." },
+    { "type": "vf", "niveau": "expert", "question": "Le péritoine est une membrane séreuse abdominale.", "reponse": true, "explication": "Le péritoine tapisse la cavité abdominale." },
+    { "type": "qcm", "niveau": "expert", "question": "Le tronc cérébral comprend :", "choix": ["Bulbe, pont, mésencéphale", "Cervelet seul", "Cortex seul", "Hypothalamus seul"], "reponse": 0, "explication": "Le tronc cérébral comprend ces trois structures." },
+    { "type": "vf", "niveau": "expert", "question": "Les artères pulmonaires transportent du sang non oxygéné.", "reponse": true, "explication": "Elles transportent le sang vers les poumons." },
+    { "type": "qcm", "niveau": "expert", "question": "La plèvre entoure :", "choix": ["Le cœur", "Les poumons", "Le foie", "Les reins"], "reponse": 1, "explication": "La plèvre est la membrane des poumons." },
+    { "type": "vf", "niveau": "expert", "question": "Le système lymphatique participe à l'immunité.", "reponse": true, "explication": "Il joue un rôle majeur dans la défense." }
+
+  ]
+}

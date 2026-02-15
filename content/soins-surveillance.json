@@ -1,0 +1,38 @@
+{
+  "questions": [
+
+    { "type": "qcm", "niveau": "facile", "question": "La toilette est un soin :", "choix": ["Technique uniquement", "De confort et de bien-être", "Chirurgical", "Administratif"], "reponse": 1, "explication": "La toilette est un soin d'hygiène et de confort." },
+    { "type": "vf", "niveau": "facile", "question": "La prévention des escarres fait partie du rôle propre infirmier.", "reponse": true, "explication": "Elle relève du rôle propre." },
+    { "type": "qcm", "niveau": "facile", "question": "Une escarre stade 1 correspond :", "choix": ["Plaie profonde", "Érythème persistant", "Nécrose", "Os visible"], "reponse": 1, "explication": "Stade 1 = rougeur persistante." },
+    { "type": "vf", "niveau": "facile", "question": "La surveillance des constantes inclut la fréquence cardiaque.", "reponse": true, "explication": "FC fait partie des paramètres vitaux." },
+    { "type": "qcm", "niveau": "facile", "question": "Le score de Glasgow évalue :", "choix": ["La douleur", "La conscience", "La glycémie", "La diurèse"], "reponse": 1, "explication": "Le Glasgow évalue la conscience." },
+    { "type": "vf", "niveau": "facile", "question": "Une douleur doit être évaluée régulièrement.", "reponse": true, "explication": "La douleur doit être surveillée et tracée." },
+    { "type": "qcm", "niveau": "facile", "question": "Un pansement doit être :", "choix": ["Sale", "Stérile selon indication", "Réutilisé", "Non tracé"], "reponse": 1, "explication": "Le pansement respecte les règles d'asepsie." },
+    { "type": "vf", "niveau": "facile", "question": "L'hydratation participe à la prévention des complications.", "reponse": true, "explication": "Elle prévient déshydratation et constipation." },
+    { "type": "qcm", "niveau": "facile", "question": "Une tachycardie est :", "choix": ["FC < 60", "FC 60-80", "FC > 100", "FC = 80"], "reponse": 2, "explication": "Tachycardie = FC > 100 bpm." },
+    { "type": "vf", "niveau": "facile", "question": "La traçabilité des soins est obligatoire.", "reponse": true, "explication": "Tout soin doit être tracé." },
+
+    { "type": "qcm", "niveau": "intermediaire", "question": "Les complications du décubitus incluent :", "choix": ["Escarres", "TVP", "Infection pulmonaire", "Toutes les réponses"], "reponse": 3, "explication": "Le décubitus favorise plusieurs complications." },
+    { "type": "vf", "niveau": "intermediaire", "question": "Un plâtre doit être surveillé (douleur, couleur, pouls distal).", "reponse": true, "explication": "Surveillance neurovasculaire indispensable." },
+    { "type": "qcm", "niveau": "intermediaire", "question": "Le syndrome des loges se manifeste par :", "choix": ["Douleur intense", "Paresthésie", "Absence pouls", "Toutes les réponses"], "reponse": 3, "explication": "Triade classique + urgence chirurgicale." },
+    { "type": "vf", "niveau": "intermediaire", "question": "Une hypotension peut traduire un choc hémorragique.", "reponse": true, "explication": "Hypotension + tachycardie = suspicion choc." },
+    { "type": "qcm", "niveau": "intermediaire", "question": "L'échelle EVA évalue :", "choix": ["La conscience", "La douleur", "La glycémie", "La tension"], "reponse": 1, "explication": "EVA = évaluation de la douleur." },
+    { "type": "vf", "niveau": "intermediaire", "question": "La mobilisation précoce réduit les complications.", "reponse": true, "explication": "Elle réduit TVP et escarres." },
+    { "type": "qcm", "niveau": "intermediaire", "question": "Une anurie correspond :", "choix": ["Diurèse normale", "Absence d'urine", "Excès d'urine", "Hématurie"], "reponse": 1, "explication": "Anurie = absence quasi totale d'urine." },
+    { "type": "vf", "niveau": "intermediaire", "question": "La surveillance Redon inclut quantité et aspect.", "reponse": true, "explication": "Aspect et volume doivent être notés." },
+    { "type": "qcm", "niveau": "intermediaire", "question": "Une saturation < 90% est :", "choix": ["Normale", "Pathologique", "Physiologique", "Sans importance"], "reponse": 1, "explication": "SpO2 < 90% = hypoxémie." },
+    { "type": "vf", "niveau": "intermediaire", "question": "La prévention des chutes est un objectif de soins.", "reponse": true, "explication": "La prévention des risques est essentielle." },
+
+    { "type": "qcm", "niveau": "expert", "question": "Un Glasgow à 8 signifie :", "choix": ["Conscience normale", "Trouble léger", "Coma grave", "Hypervigilance"], "reponse": 2, "explication": "Glasgow ≤ 8 = coma grave." },
+    { "type": "vf", "niveau": "expert", "question": "Une marbrure cutanée peut traduire une hypoperfusion.", "reponse": true, "explication": "Signe de mauvaise perfusion périphérique." },
+    { "type": "qcm", "niveau": "expert", "question": "Une douleur thoracique + hypotension évoque :", "choix": ["Anxiété", "Urgence vitale", "Constipation", "Fièvre simple"], "reponse": 1, "explication": "Peut évoquer infarctus ou choc." },
+    { "type": "vf", "niveau": "expert", "question": "La surveillance neurologique inclut les pupilles.", "reponse": true, "explication": "La taille et la réactivité pupillaire sont surveillées." },
+    { "type": "qcm", "niveau": "expert", "question": "Une hyperthermie > 40°C est :", "choix": ["Normale", "Bénigne", "Urgence", "Physiologique"], "reponse": 2, "explication": "Hyperthermie majeure = urgence." },
+    { "type": "vf", "niveau": "expert", "question": "Un patient polytraumatisé nécessite une approche ABCDE.", "reponse": true, "explication": "ABCDE = approche systématique." },
+    { "type": "qcm", "niveau": "expert", "question": "La polypnée correspond :", "choix": ["FR basse", "FR élevée", "FC élevée", "Diurèse basse"], "reponse": 1, "explication": "Polypnée = FR augmentée." },
+    { "type": "vf", "niveau": "expert", "question": "La prévention des infections passe par l'hygiène des mains.", "reponse": true, "explication": "Mesure essentielle." },
+    { "type": "qcm", "niveau": "expert", "question": "Une hypotension + tachycardie évoque :", "choix": ["Choc", "Bien-être", "Fièvre simple", "Bradycardie"], "reponse": 0, "explication": "Peut traduire un choc." },
+    { "type": "vf", "niveau": "expert", "question": "La surveillance clinique prime sur les seuls examens complémentaires.", "reponse": true, "explication": "La clinique reste fondamentale." }
+
+  ]
+}

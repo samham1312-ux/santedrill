@@ -1,0 +1,42 @@
+{
+  "questions": [
+
+    { "type": "qcm", "niveau": "facile", "question": "La voie intraveineuse (IV) a une biodisponibilité de :", "choix": ["0%", "50%", "80%", "100%"], "reponse": 3, "explication": "La voie IV a une biodisponibilité de 100%." },
+    { "type": "vf", "niveau": "facile", "question": "Le paracétamol est un antalgique de palier 1.", "reponse": true, "explication": "Le paracétamol est un antalgique de palier 1." },
+    { "type": "qcm", "niveau": "facile", "question": "La demi-vie correspond :", "choix": ["Au temps d'action maximal", "Au temps pour éliminer 50% du médicament", "Au temps d'absorption", "Au temps d'élimination totale"], "reponse": 1, "explication": "La demi-vie est le temps nécessaire pour éliminer 50% du médicament." },
+    { "type": "vf", "niveau": "facile", "question": "Les AINS peuvent provoquer des troubles digestifs.", "reponse": true, "explication": "Les AINS peuvent entraîner gastrites et ulcères." },
+    { "type": "qcm", "niveau": "facile", "question": "Les 5B de l'administration du médicament incluent :", "choix": ["Bon patient", "Bonne voie", "Bonne dose", "Toutes les réponses"], "reponse": 3, "explication": "Les 5B : bon patient, bon médicament, bonne dose, bonne voie, bon moment." },
+    { "type": "vf", "niveau": "facile", "question": "La morphine est un opioïde fort.", "reponse": true, "explication": "La morphine appartient au palier 3." },
+    { "type": "qcm", "niveau": "facile", "question": "La clairance correspond :", "choix": ["Volume distribué", "Volume de plasma épuré par unité de temps", "Temps d'absorption", "Temps d'action"], "reponse": 1, "explication": "La clairance mesure le volume de plasma épuré par unité de temps." },
+    { "type": "vf", "niveau": "facile", "question": "Une injection IM est une voie parentérale.", "reponse": true, "explication": "IM = intramusculaire, voie parentérale." },
+    { "type": "qcm", "niveau": "facile", "question": "Un effet indésirable est :", "choix": ["Un effet voulu", "Un effet non voulu", "Une interaction alimentaire", "Une erreur de dose"], "reponse": 1, "explication": "Un effet indésirable est un effet non voulu." },
+    { "type": "vf", "niveau": "facile", "question": "La voie orale subit un premier passage hépatique.", "reponse": true, "explication": "La voie orale subit un premier passage hépatique." },
+
+
+
+    { "type": "qcm", "niveau": "intermediaire", "question": "Le volume de distribution (Vd) reflète :", "choix": ["La vitesse d'élimination", "La répartition tissulaire", "La concentration plasmatique", "La biodisponibilité"], "reponse": 1, "explication": "Un Vd élevé indique une forte diffusion tissulaire." },
+    { "type": "vf", "niveau": "intermediaire", "question": "Les AVK nécessitent une surveillance de l'INR.", "reponse": true, "explication": "Les AVK sont surveillés par l'INR." },
+    { "type": "qcm", "niveau": "intermediaire", "question": "Un surdosage en paracétamol expose à :", "choix": ["Insuffisance cardiaque", "Hépatotoxicité", "Insuffisance respiratoire", "Hypotension sévère"], "reponse": 1, "explication": "Le surdosage en paracétamol est hépatotoxicité." },
+    { "type": "vf", "niveau": "intermediaire", "question": "Les HBPM nécessitent une surveillance des plaquettes.", "reponse": true, "explication": "Risque de thrombopénie induite par l'héparine." },
+    { "type": "qcm", "niveau": "intermediaire", "question": "La pharmacodynamie étudie :", "choix": ["Le devenir du médicament", "Les effets du médicament", "La distribution", "L'élimination"], "reponse": 1, "explication": "La pharmacodynamie étudie l'effet du médicament sur l'organisme." },
+    { "type": "vf", "niveau": "intermediaire", "question": "Les AINS augmentent le risque hémorragique.", "reponse": true, "explication": "Les AINS ont un effet antiagrégant." },
+    { "type": "qcm", "niveau": "intermediaire", "question": "La biodisponibilité correspond :", "choix": ["À la dose prescrite", "À la fraction active atteignant la circulation", "Au volume distribué", "À la demi-vie"], "reponse": 1, "explication": "La biodisponibilité correspond à la fraction active atteignant la circulation." },
+    { "type": "vf", "niveau": "intermediaire", "question": "La naloxone est l'antidote des opioïdes.", "reponse": true, "explication": "La naloxone antagonise les opioïdes." },
+    { "type": "qcm", "niveau": "intermediaire", "question": "La pharmacocinétique comprend :", "choix": ["Absorption", "Distribution", "Métabolisme", "Toutes les réponses"], "reponse": 3, "explication": "Pharmacocinétique = ADME." },
+    { "type": "vf", "niveau": "intermediaire", "question": "L'insuffisance rénale peut modifier la clairance d'un médicament.", "reponse": true, "explication": "La clairance rénale diminue en cas d'insuffisance rénale." },
+
+
+
+    { "type": "qcm", "niveau": "expert", "question": "Après combien de demi-vies environ 97% d'un médicament est éliminé ?", "choix": ["2", "3", "5", "10"], "reponse": 2, "explication": "Après environ 5 demi-vies, 97% du médicament est éliminé." },
+    { "type": "vf", "niveau": "expert", "question": "Une interaction médicamenteuse peut modifier la concentration plasmatique.", "reponse": true, "explication": "Les interactions peuvent modifier l'absorption ou l'élimination." },
+    { "type": "qcm", "niveau": "expert", "question": "Un médicament à index thérapeutique étroit nécessite :", "choix": ["Aucune surveillance", "Une surveillance accrue", "Une dose unique", "Une administration IV uniquement"], "reponse": 1, "explication": "Un index thérapeutique étroit nécessite une surveillance rapprochée." },
+    { "type": "vf", "niveau": "expert", "question": "La phase I du métabolisme hépatique implique souvent le cytochrome P450.", "reponse": true, "explication": "La phase I implique souvent le CYP450." },
+    { "type": "qcm", "niveau": "expert", "question": "Une accumulation médicamenteuse survient lorsque :", "choix": ["Dose > élimination", "Absorption nulle", "Distribution faible", "Métabolisme rapide"], "reponse": 0, "explication": "Accumulation si la vitesse d'administration dépasse l'élimination." },
+    { "type": "vf", "niveau": "expert", "question": "Un médicament lipophile a tendance à avoir un volume de distribution élevé.", "reponse": true, "explication": "Les médicaments lipophiles diffusent dans les tissus." },
+    { "type": "qcm", "niveau": "expert", "question": "L'effet de premier passage hépatique diminue :", "choix": ["La demi-vie", "La biodisponibilité", "Le Vd", "La clairance"], "reponse": 1, "explication": "Le premier passage hépatique diminue la biodisponibilité." },
+    { "type": "vf", "niveau": "expert", "question": "Une enzyme inductrice peut diminuer l'efficacité d'un médicament.", "reponse": true, "explication": "Induction enzymatique → métabolisme accéléré." },
+    { "type": "qcm", "niveau": "expert", "question": "La concentration plasmatique à l'état d'équilibre dépend :", "choix": ["Dose administrée", "Clairance", "Intervalle d'administration", "Toutes les réponses"], "reponse": 3, "explication": "L'état d'équilibre dépend de tous ces paramètres." },
+    { "type": "vf", "niveau": "expert", "question": "Une insuffisance hépatique peut augmenter le risque de surdosage.", "reponse": true, "explication": "Le métabolisme hépatique diminué favorise l'accumulation." }
+
+  ]
+}

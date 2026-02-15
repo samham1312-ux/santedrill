@@ -1,0 +1,42 @@
+{
+  "questions": [
+
+    { "type": "qcm", "niveau": "facile", "question": "Le rôle principal de l'appareil respiratoire est :", "choix": ["Produire du sang", "Échanger O2 et CO2", "Réguler le glucose", "Produire des hormones"], "reponse": 1, "explication": "Le système respiratoire permet les échanges gazeux O2/CO2." },
+    { "type": "vf", "niveau": "facile", "question": "Le cœur gauche envoie le sang oxygéné vers la circulation générale.", "reponse": true, "explication": "Le ventricule gauche propulse le sang dans l'aorte." },
+    { "type": "qcm", "niveau": "facile", "question": "La fréquence cardiaque normale adulte est environ :", "choix": ["20-40 bpm", "60-100 bpm", "120-150 bpm", "150-200 bpm"], "reponse": 1, "explication": "FC normale adulte : 60-100 bpm." },
+    { "type": "vf", "niveau": "facile", "question": "La pression artérielle normale est environ 120/80 mmHg.", "reponse": true, "explication": "Valeur de référence adulte." },
+    { "type": "qcm", "niveau": "facile", "question": "Le néphron participe :", "choix": ["À la digestion", "À la filtration sanguine", "À la ventilation", "À l'innervation"], "reponse": 1, "explication": "Le néphron assure la filtration rénale." },
+    { "type": "vf", "niveau": "facile", "question": "Les alvéoles sont le siège des échanges gazeux.", "reponse": true, "explication": "Les échanges se font au niveau alvéolaire." },
+    { "type": "qcm", "niveau": "facile", "question": "La température corporelle normale est :", "choix": ["34°C", "35°C", "37°C", "39°C"], "reponse": 2, "explication": "Température normale ≈ 37°C." },
+    { "type": "vf", "niveau": "facile", "question": "L'insuline diminue la glycémie.", "reponse": true, "explication": "L'insuline favorise l'entrée du glucose dans les cellules." },
+    { "type": "qcm", "niveau": "facile", "question": "La diurèse correspond :", "choix": ["Au volume urinaire", "Au volume sanguin", "À la respiration", "À la glycémie"], "reponse": 0, "explication": "Diurèse = volume d'urine émise." },
+    { "type": "vf", "niveau": "facile", "question": "Une tachycardie correspond à une fréquence cardiaque élevée.", "reponse": true, "explication": "Tachycardie = FC > 100 bpm." },
+
+
+
+    { "type": "qcm", "niveau": "intermediaire", "question": "Le débit cardiaque dépend :", "choix": ["Pression artérielle", "FC × VES", "Volume sanguin", "Oxygène sanguin"], "reponse": 1, "explication": "DC = FC × VES." },
+    { "type": "vf", "niveau": "intermediaire", "question": "Une bradypnée correspond à une diminution de la fréquence respiratoire.", "reponse": true, "explication": "Bradypnée = FR basse." },
+    { "type": "qcm", "niveau": "intermediaire", "question": "La pression artérielle dépend :", "choix": ["Débit cardiaque", "Résistances périphériques", "Volume sanguin", "Toutes les réponses"], "reponse": 3, "explication": "Tous ces facteurs influencent la PA." },
+    { "type": "vf", "niveau": "intermediaire", "question": "L'ADH augmente la réabsorption d'eau.", "reponse": true, "explication": "ADH agit sur les tubes collecteurs." },
+    { "type": "qcm", "niveau": "intermediaire", "question": "Une hypoventilation entraîne :", "choix": ["Hypocapnie", "Hypercapnie", "Alcalose", "Aucune modification"], "reponse": 1, "explication": "Hypoventilation → accumulation CO2." },
+    { "type": "vf", "niveau": "intermediaire", "question": "L'aldostérone favorise la rétention de sodium et d'eau.", "reponse": true, "explication": "Elle augmente la volémie." },
+    { "type": "qcm", "niveau": "intermediaire", "question": "La précharge correspond :", "choix": ["Pression après éjection", "Remplissage ventriculaire", "Pression pulmonaire", "Résistance artérielle"], "reponse": 1, "explication": "Précharge = volume télédiastolique." },
+    { "type": "vf", "niveau": "intermediaire", "question": "Une hypotension peut entraîner une syncope.", "reponse": true, "explication": "Diminution perfusion cérébrale." },
+    { "type": "qcm", "niveau": "intermediaire", "question": "La SpO2 mesure :", "choix": ["Pression CO2", "Saturation en oxygène", "pH", "Hémoglobine totale"], "reponse": 1, "explication": "SpO2 = saturation périphérique." },
+    { "type": "vf", "niveau": "intermediaire", "question": "Le SRAA augmente la pression artérielle.", "reponse": true, "explication": "Angiotensine II = vasoconstriction." },
+
+
+
+    { "type": "qcm", "niveau": "expert", "question": "La postcharge correspond :", "choix": ["Résistance à l'éjection ventriculaire", "Remplissage ventriculaire", "Débit urinaire", "Volume plasmatique"], "reponse": 0, "explication": "Postcharge = résistance contre laquelle le cœur éjecte." },
+    { "type": "vf", "niveau": "expert", "question": "Une acidose respiratoire est liée à une hypoventilation.", "reponse": true, "explication": "Hypoventilation → accumulation CO2." },
+    { "type": "qcm", "niveau": "expert", "question": "La loi de Starling concerne :", "choix": ["Fonction rénale", "Échanges capillaires", "Transmission nerveuse", "Digestion"], "reponse": 1, "explication": "Starling décrit les échanges hydriques capillaires." },
+    { "type": "vf", "niveau": "expert", "question": "Une hyperkaliémie peut provoquer un arrêt cardiaque.", "reponse": true, "explication": "Perturbation électrique sévère." },
+    { "type": "qcm", "niveau": "expert", "question": "La ventilation alvéolaire dépend :", "choix": ["Volume courant", "Fréquence respiratoire", "Espace mort", "Toutes les réponses"], "reponse": 3, "explication": "Tous ces paramètres influencent la ventilation efficace." },
+    { "type": "vf", "niveau": "expert", "question": "Une hypoxie correspond à un défaut d'oxygénation tissulaire.", "reponse": true, "explication": "Hypoxie = manque O2 au niveau des tissus." },
+    { "type": "qcm", "niveau": "expert", "question": "Le gradient alvéolo-artériel permet d'évaluer :", "choix": ["Perfusion rénale", "Qualité échanges pulmonaires", "Fonction hépatique", "Fonction cardiaque"], "reponse": 1, "explication": "Il évalue l'efficacité des échanges gazeux." },
+    { "type": "vf", "niveau": "expert", "question": "Une alcalose métabolique peut être liée à des vomissements répétés.", "reponse": true, "explication": "Perte d'acide gastrique." },
+    { "type": "qcm", "niveau": "expert", "question": "La diurèse normale adulte est environ :", "choix": ["0.1 mL/kg/h", "0.5 mL/kg/h", "2 mL/kg/h", "5 mL/kg/h"], "reponse": 1, "explication": "Diurèse normale ≈ 0.5 mL/kg/h minimum." },
+    { "type": "vf", "niveau": "expert", "question": "Une hyperventilation entraîne une baisse de la PaCO2.", "reponse": true, "explication": "CO2 éliminé excessivement." }
+
+  ]
+}

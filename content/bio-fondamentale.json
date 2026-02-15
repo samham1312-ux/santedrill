@@ -1,0 +1,42 @@
+{
+  "questions": [
+
+    { "type": "qcm", "niveau": "facile", "question": "Le pH sanguin normal est compris entre :", "choix": ["6.8 – 7.0", "7.35 – 7.45", "7.8 – 8.0", "6.0 – 6.5"], "reponse": 1, "explication": "Le pH sanguin normal est compris entre 7.35 et 7.45." },
+    { "type": "vf", "niveau": "facile", "question": "Une acidose correspond à un pH sanguin inférieur à 7.35.", "reponse": true, "explication": "Acidose si pH < 7.35." },
+    { "type": "qcm", "niveau": "facile", "question": "La glycémie normale à jeun est environ :", "choix": ["0.2 g/L", "1 g/L", "3 g/L", "5 g/L"], "reponse": 1, "explication": "La glycémie normale est environ 0.7 à 1.1 g/L." },
+    { "type": "vf", "niveau": "facile", "question": "Les globules rouges transportent l'oxygène.", "reponse": true, "explication": "Les hématies transportent l'O2 via l'hémoglobine." },
+    { "type": "qcm", "niveau": "facile", "question": "L'unité fonctionnelle du rein est :", "choix": ["Alvéole", "Néphron", "Neurone", "Ostéon"], "reponse": 1, "explication": "Le néphron est l'unité fonctionnelle du rein." },
+    { "type": "vf", "niveau": "facile", "question": "Les plaquettes interviennent dans l'hémostase.", "reponse": true, "explication": "Les plaquettes sont essentielles à l'hémostase primaire." },
+    { "type": "qcm", "niveau": "facile", "question": "Le cœur possède :", "choix": ["2 cavités", "3 cavités", "4 cavités", "5 cavités"], "reponse": 2, "explication": "Le cœur possède 4 cavités." },
+    { "type": "vf", "niveau": "facile", "question": "Les artères transportent toujours du sang oxygéné.", "reponse": false, "explication": "Les artères pulmonaires transportent du sang non oxygéné." },
+    { "type": "qcm", "niveau": "facile", "question": "L'ADN est localisé principalement dans :", "choix": ["Cytoplasme", "Noyau", "Membrane", "Mitochondrie"], "reponse": 1, "explication": "L'ADN est principalement dans le noyau." },
+    { "type": "vf", "niveau": "facile", "question": "Les leucocytes participent à la défense immunitaire.", "reponse": true, "explication": "Les leucocytes interviennent dans l'immunité." },
+
+
+
+    { "type": "qcm", "niveau": "intermediaire", "question": "La pression oncotique dépend principalement :", "choix": ["Sodium", "Albumine", "Potassium", "Glucose"], "reponse": 1, "explication": "L'albumine est le principal facteur de pression oncotique." },
+    { "type": "vf", "niveau": "intermediaire", "question": "Une hypoalbuminémie peut provoquer des œdèmes.", "reponse": true, "explication": "Baisse pression oncotique → œdèmes." },
+    { "type": "qcm", "niveau": "intermediaire", "question": "Le TCA explore :", "choix": ["Voie extrinsèque", "Voie intrinsèque", "Voie plaquettaire", "Voie fibrinolytique"], "reponse": 1, "explication": "Le TCA explore la voie intrinsèque." },
+    { "type": "vf", "niveau": "intermediaire", "question": "Une hyperkaliémie peut entraîner des troubles du rythme.", "reponse": true, "explication": "Le potassium influence l'activité électrique cardiaque." },
+    { "type": "qcm", "niveau": "intermediaire", "question": "La saturation normale en oxygène est :", "choix": ["70-80%", "85-90%", "95-100%", "110%"], "reponse": 2, "explication": "SpO2 normale ≥ 95%." },
+    { "type": "vf", "niveau": "intermediaire", "question": "L'aldostérone favorise la rétention de sodium.", "reponse": true, "explication": "L'aldostérone augmente la réabsorption de Na+." },
+    { "type": "qcm", "niveau": "intermediaire", "question": "Une anémie correspond à :", "choix": ["↑ Hb", "↓ Hb", "↑ plaquettes", "↓ leucocytes"], "reponse": 1, "explication": "Anémie = baisse hémoglobine." },
+    { "type": "vf", "niveau": "intermediaire", "question": "Le débit cardiaque = FC × VES.", "reponse": true, "explication": "Formule du débit cardiaque." },
+    { "type": "qcm", "niveau": "intermediaire", "question": "L'ADH agit sur :", "choix": ["Foie", "Rein", "Cœur", "Pancréas"], "reponse": 1, "explication": "ADH augmente réabsorption d'eau rénale." },
+    { "type": "vf", "niveau": "intermediaire", "question": "Une alcalose respiratoire est liée à une hyperventilation.", "reponse": true, "explication": "Hyperventilation ↓ CO2." },
+
+
+
+    { "type": "qcm", "niveau": "expert", "question": "Le principal système tampon sanguin est :", "choix": ["Hémoglobine", "Bicarbonates", "Protéines", "Phosphates"], "reponse": 1, "explication": "Le système bicarbonate est le principal tampon." },
+    { "type": "vf", "niveau": "expert", "question": "Une hypoxémie correspond à une baisse de la PaO2.", "reponse": true, "explication": "Hypoxémie = PaO2 basse." },
+    { "type": "qcm", "niveau": "expert", "question": "La clairance rénale mesure :", "choix": ["Volume filtré", "Volume plasma épuré/min", "Débit urinaire", "Volume intracellulaire"], "reponse": 1, "explication": "Clairance = volume plasma épuré par unité de temps." },
+    { "type": "vf", "niveau": "expert", "question": "Le SRAA augmente la pression artérielle.", "reponse": true, "explication": "Le SRAA augmente la PA." },
+    { "type": "qcm", "niveau": "expert", "question": "La relaxation isovolumétrique correspond :", "choix": ["Ouverture valves AV", "Fermeture sigmoïdes sans variation volume", "Remplissage ventriculaire", "Contraction atriale"], "reponse": 1, "explication": "Phase de diastole sans variation volume." },
+    { "type": "vf", "niveau": "expert", "question": "Une hypercapnie correspond à une élévation de la PaCO2.", "reponse": true, "explication": "Hypercapnie = CO2 élevé." },
+    { "type": "qcm", "niveau": "expert", "question": "Une hyponatrémie sévère peut provoquer :", "choix": ["Convulsions", "Hyperglycémie", "Hypertension", "Polyurie"], "reponse": 0, "explication": "Hyponatrémie sévère → œdème cérébral." },
+    { "type": "vf", "niveau": "expert", "question": "L'hémostase primaire implique les plaquettes.", "reponse": true, "explication": "Hémostase primaire = plaquettaire." },
+    { "type": "qcm", "niveau": "expert", "question": "La diffusion pulmonaire dépend :", "choix": ["Surface", "Gradient pression", "Épaisseur membrane", "Toutes les réponses"], "reponse": 3, "explication": "Tous ces facteurs influencent la diffusion." },
+    { "type": "vf", "niveau": "expert", "question": "Une acidose métabolique peut être compensée par hyperventilation.", "reponse": true, "explication": "Compensation respiratoire." }
+
+  ]
+}

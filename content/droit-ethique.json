@@ -1,0 +1,38 @@
+{
+  "questions": [
+
+    { "type": "qcm", "niveau": "facile", "question": "La loi du 4 mars 2002 concerne :", "choix": ["Le secret militaire", "Les droits des patients", "La sécurité routière", "La fiscalité"], "reponse": 1, "explication": "La loi du 4 mars 2002 renforce les droits des patients." },
+    { "type": "vf", "niveau": "facile", "question": "Le secret professionnel est une obligation légale.", "reponse": true, "explication": "Le secret professionnel est encadré par le Code pénal." },
+    { "type": "qcm", "niveau": "facile", "question": "Les directives anticipées concernent :", "choix": ["Les soins esthétiques", "La fin de vie", "La vaccination", "Les urgences vitales"], "reponse": 1, "explication": "Les directives anticipées concernent les décisions de fin de vie." },
+    { "type": "vf", "niveau": "facile", "question": "Le consentement du patient doit être libre et éclairé.", "reponse": true, "explication": "Le consentement doit être libre et éclairé." },
+    { "type": "qcm", "niveau": "facile", "question": "Une faute professionnelle peut engager :", "choix": ["Aucune responsabilité", "Responsabilité pénale", "Responsabilité civile", "Les deux"], "reponse": 3, "explication": "Une faute peut engager responsabilité civile et pénale." },
+    { "type": "vf", "niveau": "facile", "question": "La contention doit être prescrite et tracée.", "reponse": true, "explication": "La contention est encadrée juridiquement." },
+    { "type": "qcm", "niveau": "facile", "question": "Le principe d'autonomie signifie :", "choix": ["Le soignant décide", "Le patient décide", "La famille décide", "L'État décide"], "reponse": 1, "explication": "Le principe d'autonomie reconnaît le droit du patient à décider." },
+    { "type": "vf", "niveau": "facile", "question": "Le secret professionnel peut être levé dans certaines situations légales.", "reponse": true, "explication": "Il existe des exceptions légales au secret." },
+    { "type": "qcm", "niveau": "facile", "question": "Le Code pénal sanctionne :", "choix": ["Les erreurs techniques", "Les infractions", "Les oublis mineurs", "Les retards"], "reponse": 1, "explication": "Le Code pénal sanctionne les infractions." },
+    { "type": "vf", "niveau": "facile", "question": "Les directives anticipées s'imposent au médecin sauf exceptions.", "reponse": true, "explication": "Elles s'imposent sauf situation d'urgence ou caractère inapproprié." },
+
+    { "type": "qcm", "niveau": "intermediaire", "question": "La responsabilité civile vise :", "choix": ["À punir", "À réparer un dommage", "À incarcérer", "À suspendre un diplôme"], "reponse": 1, "explication": "La responsabilité civile vise la réparation du dommage." },
+    { "type": "vf", "niveau": "intermediaire", "question": "Une faute pénale suppose une infraction définie par la loi.", "reponse": true, "explication": "Il faut un texte pour qualifier l'infraction." },
+    { "type": "qcm", "niveau": "intermediaire", "question": "Les 3 éléments d'une faute civile sont :", "choix": ["Intention, sanction, juge", "Faute, dommage, lien causal", "Erreur, punition, plainte", "Acte, témoin, preuve"], "reponse": 1, "explication": "Faute + dommage + lien de causalité." },
+    { "type": "vf", "niveau": "intermediaire", "question": "La non-assistance à personne en danger est une infraction pénale.", "reponse": true, "explication": "Elle est sanctionnée par le Code pénal." },
+    { "type": "qcm", "niveau": "intermediaire", "question": "La loi Leonetti-Claeys concerne :", "choix": ["L'euthanasie active", "La fin de vie", "La recherche médicale", "La psychiatrie"], "reponse": 1, "explication": "Elle encadre la fin de vie." },
+    { "type": "vf", "niveau": "intermediaire", "question": "Le secret partagé est possible entre professionnels impliqués.", "reponse": true, "explication": "Dans le cadre de la prise en charge." },
+    { "type": "qcm", "niveau": "intermediaire", "question": "Une infraction peut être :", "choix": ["Contravention", "Délit", "Crime", "Toutes les réponses"], "reponse": 3, "explication": "Les infractions sont classées en 3 catégories." },
+    { "type": "vf", "niveau": "intermediaire", "question": "La responsabilité administrative concerne les établissements publics.", "reponse": true, "explication": "Elle engage l'établissement." },
+    { "type": "qcm", "niveau": "intermediaire", "question": "Le principe de bienfaisance signifie :", "choix": ["Ne pas nuire", "Faire le bien du patient", "Respecter la loi", "Obéir au médecin"], "reponse": 1, "explication": "La bienfaisance vise le bien du patient." },
+    { "type": "vf", "niveau": "intermediaire", "question": "Le principe de non-malfaisance signifie ne pas nuire.", "reponse": true, "explication": "Ne pas nuire est un principe fondamental." },
+
+    { "type": "qcm", "niveau": "expert", "question": "Le JLD signifie :", "choix": ["Juge des Libertés et de la Détention", "Justice Locale de Discipline", "Juridiction Légale de Droit", "Juge Légal Départemental"], "reponse": 0, "explication": "JLD = Juge des Libertés et de la Détention." },
+    { "type": "vf", "niveau": "expert", "question": "Une violation du secret professionnel peut entraîner 1 an de prison.", "reponse": true, "explication": "Sanction prévue par le Code pénal." },
+    { "type": "qcm", "niveau": "expert", "question": "Le consentement peut être retiré :", "choix": ["Jamais", "À tout moment", "Seulement avant l'acte", "Uniquement par écrit"], "reponse": 1, "explication": "Le consentement est révocable à tout moment." },
+    { "type": "vf", "niveau": "expert", "question": "La responsabilité disciplinaire relève de l'Ordre professionnel.", "reponse": true, "explication": "L'Ordre peut sanctionner disciplinairement." },
+    { "type": "qcm", "niveau": "expert", "question": "Une erreur sans dommage engage :", "choix": ["Toujours pénal", "Jamais responsabilité", "Peut engager disciplinaire", "Toujours prison"], "reponse": 2, "explication": "Elle peut engager une responsabilité disciplinaire." },
+    { "type": "vf", "niveau": "expert", "question": "La traçabilité est une obligation professionnelle.", "reponse": true, "explication": "La traçabilité sécurise la prise en charge." },
+    { "type": "qcm", "niveau": "expert", "question": "La tutelle concerne :", "choix": ["Mineur uniquement", "Personne incapable majeure", "Patient autonome", "Soignant"], "reponse": 1, "explication": "La tutelle concerne les majeurs protégés." },
+    { "type": "vf", "niveau": "expert", "question": "Une mise en danger délibérée est une infraction pénale.", "reponse": true, "explication": "Elle est sanctionnée pénalement." },
+    { "type": "qcm", "niveau": "expert", "question": "Le secret professionnel protège :", "choix": ["Le soignant", "Le patient", "L'établissement", "Le juge"], "reponse": 1, "explication": "Il protège la confidentialité du patient." },
+    { "type": "vf", "niveau": "expert", "question": "La proportionnalité est un principe éthique.", "reponse": true, "explication": "Les soins doivent être proportionnés." }
+
+  ]
+}
