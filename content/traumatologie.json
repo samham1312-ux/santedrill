@@ -1,0 +1,45 @@
+{
+  "questions": [
+
+    { "type": "qcm", "niveau": "intermediaire", "question": "L’ABCDE en traumatologie signifie :", "choix": ["Airway, Breathing, Circulation, Disability, Exposure", "Artère, Bronche, Cœur, Diurèse, Examen", "Analyse, Bilan, Contrôle, Diagnostic, Évaluation", "Aucune réponse"], "reponse": 0, "explication": "ABCDE est l’évaluation primaire en situation d’urgence." },
+
+    { "type": "vf", "niveau": "intermediaire", "question": "La priorité en traumato est la gestion des voies aériennes.", "reponse": true, "explication": "Airway est la première étape de l’ABCDE." },
+
+    { "type": "qcm", "niveau": "intermediaire", "question": "Un pneumothorax provoque :", "choix": ["Matité à la percussion", "Tympanisme", "Bradycardie", "Hyperglycémie"], "reponse": 1, "explication": "L’air dans la cavité pleurale provoque un tympanisme." },
+
+    { "type": "vf", "niveau": "intermediaire", "question": "Un pneumothorax peut entraîner une détresse respiratoire.", "reponse": true, "explication": "Il empêche la bonne expansion pulmonaire." },
+
+    { "type": "qcm", "niveau": "expert", "question": "Le score de Glasgow évalue :", "choix": ["Respiration", "Conscience", "Tension", "Douleur uniquement"], "reponse": 1, "explication": "Il évalue l’ouverture des yeux, la réponse verbale et motrice." },
+
+    { "type": "vf", "niveau": "expert", "question": "Un score de Glasgow inférieur à 8 est une urgence.", "reponse": true, "explication": "Risque d’altération majeure de conscience." },
+
+    { "type": "qcm", "niveau": "expert", "question": "Une fracture ouverte est :", "choix": ["Moins grave", "Une urgence infectieuse", "Sans risque", "Toujours bénigne"], "reponse": 1, "explication": "Risque infectieux majeur." },
+
+    { "type": "vf", "niveau": "expert", "question": "Le syndrome des loges est une urgence chirurgicale.", "reponse": true, "explication": "Compression vasculaire et nerveuse." },
+
+    { "type": "qcm", "niveau": "expert", "question": "Un choc hémorragique entraîne :", "choix": ["Hypertension", "Hypotension", "Bradycardie", "Hypervolémie"], "reponse": 1, "explication": "Perte sanguine → baisse pression." },
+
+    { "type": "vf", "niveau": "expert", "question": "La tachycardie peut être un signe de choc.", "reponse": true, "explication": "Réaction compensatoire à l’hypovolémie." },
+
+    { "type": "qcm", "niveau": "expert", "question": "Une hémorragie interne peut provoquer :", "choix": ["Marbrures", "Hypotension", "Tachycardie", "Toutes les réponses"], "reponse": 3, "explication": "Tous ces signes peuvent être présents." },
+
+    { "type": "vf", "niveau": "expert", "question": "La surveillance des pupilles est essentielle en traumatisme crânien.", "reponse": true, "explication": "Permet de détecter un engagement cérébral." },
+
+    { "type": "qcm", "niveau": "intermediaire", "question": "Une luxation correspond :", "choix": ["Atteinte ligamentaire", "Perte contact articulaire", "Fracture partielle", "Contusion"], "reponse": 1, "explication": "La luxation est une perte totale de contact articulaire." },
+
+    { "type": "vf", "niveau": "intermediaire", "question": "Une entorse est une atteinte ligamentaire.", "reponse": true, "explication": "Elle touche les ligaments." },
+
+    { "type": "qcm", "niveau": "expert", "question": "La surveillance d’un plâtre comprend :", "choix": ["Couleur du membre", "Pouls distal", "Douleur", "Toutes les réponses"], "reponse": 3, "explication": "Surveillance vasculo-nerveuse essentielle." },
+
+    { "type": "vf", "niveau": "expert", "question": "Une douleur intense et croissante sous plâtre est un signe d’alerte.", "reponse": true, "explication": "Peut évoquer un syndrome des loges." },
+
+    { "type": "qcm", "niveau": "expert", "question": "Un traumatisme crânien grave peut entraîner :", "choix": ["Convulsions", "Vomissements", "Altération conscience", "Toutes les réponses"], "reponse": 3, "explication": "Signes neurologiques majeurs." },
+
+    { "type": "vf", "niveau": "expert", "question": "La position demi-assise est adaptée en cas de pneumothorax.", "reponse": true, "explication": "Facilite la respiration." },
+
+    { "type": "qcm", "niveau": "expert", "question": "Le FAST est :", "choix": ["Un traitement", "Une échographie d’urgence", "Un médicament", "Un score"], "reponse": 1, "explication": "FAST = échographie rapide en traumatologie." },
+
+    { "type": "vf", "niveau": "expert", "question": "Une fracture du col du fémur peut provoquer une rotation externe du membre.", "reponse": true, "explication": "Signe clinique classique." }
+
+  ]
+}
