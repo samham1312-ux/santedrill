@@ -48,7 +48,13 @@ const domainIcons = {
       <circle cx="20" cy="12" r="4" stroke="currentColor" strokeWidth="2.5"/>
       <path d="M20 16v8M14 20l6 4 6-4M14 28h12" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round"/>
     </svg>
+  ),  'traumatologie': (
+    <svg width="40" height="40" viewBox="0 0 40 40" fill="none">
+      <path d="M10 20h20M20 10v20" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round"/>
+      <circle cx="20" cy="20" r="12" stroke="currentColor" strokeWidth="2.5"/>
+    </svg>
   ),
+
 }
 
 const colors = [
@@ -60,6 +66,8 @@ const colors = [
   'from-indigo-500 to-indigo-600',
   'from-teal-500 to-teal-600',
   'from-red-500 to-red-600',
+  'from-emerald-500 to-emerald-600',
+
 ]
 
 export default function DomainesPage() {
