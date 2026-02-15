@@ -36,7 +36,162 @@
     { "type": "qcm", "niveau": "expert", "question": "Le gradient alvéolo-artériel permet d'évaluer :", "choix": ["Perfusion rénale", "Qualité échanges pulmonaires", "Fonction hépatique", "Fonction cardiaque"], "reponse": 1, "explication": "Il évalue l'efficacité des échanges gazeux." },
     { "type": "vf", "niveau": "expert", "question": "Une alcalose métabolique peut être liée à des vomissements répétés.", "reponse": true, "explication": "Perte d'acide gastrique." },
     { "type": "qcm", "niveau": "expert", "question": "La diurèse normale adulte est environ :", "choix": ["0.1 mL/kg/h", "0.5 mL/kg/h", "2 mL/kg/h", "5 mL/kg/h"], "reponse": 1, "explication": "Diurèse normale ≈ 0.5 mL/kg/h minimum." },
-    { "type": "vf", "niveau": "expert", "question": "Une hyperventilation entraîne une baisse de la PaCO2.", "reponse": true, "explication": "CO2 éliminé excessivement." }
+    { "type": "vf", "niveau": "expert", "question": "Une hyperventilation entraîne une baisse de la PaCO2.", "reponse": true, "explication": "CO2 éliminé excessivement." },{ "type": "qcm", "niveau": "expert", "question": "L’osmolarité plasmatique normale est comprise entre :", "choix": ["250–270 mOsm/kg", "275–295 mOsm/kg", "300–320 mOsm/kg", "320–340 mOsm/kg"], "reponse": 1, "explication": "L’osmolarité plasmatique normale est comprise entre 275 et 295 mOsm/kg." },
+
+{ "type": "vf", "niveau": "expert", "question": "Une déshydratation augmente la sécrétion d’ADH.", "reponse": true, "explication": "La déshydratation augmente l’osmolarité plasmatique, ce qui stimule la sécrétion d’ADH." },
+
+{ "type": "qcm", "niveau": "expert", "question": "L’aldostérone est sécrétée par :", "choix": ["La médullosurrénale", "La corticosurrénale", "L’hypophyse", "Le rein"], "reponse": 1, "explication": "L’aldostérone est sécrétée par la corticosurrénale." },
+
+{ "type": "vf", "niveau": "expert", "question": "Le FAN diminue la volémie.", "reponse": true, "explication": "Le facteur atrial natriurétique favorise l’élimination du sodium et de l’eau." },
+
+{ "type": "qcm", "niveau": "expert", "question": "Le SRAA est activé en cas de :", "choix": ["Hypervolémie", "Hypotension", "Hypernatrémie", "Hyperglycémie"], "reponse": 1, "explication": "Une baisse de la pression artérielle active la sécrétion de rénine." },
+
+{ "type": "vf", "niveau": "expert", "question": "L’ADH agit au niveau des tubes collecteurs.", "reponse": true, "explication": "Elle augmente la perméabilité à l’eau des tubes collecteurs." },
+
+{ "type": "qcm", "niveau": "expert", "question": "L’aldostérone entraîne :", "choix": ["Perte sodium", "Rétention sodium", "Baisse volémie", "Vasodilatation"], "reponse": 1, "explication": "Elle augmente la réabsorption de sodium et donc la volémie." },
+
+{ "type": "vf", "niveau": "expert", "question": "Une hyperosmolarité plasmatique stimule les osmorécepteurs hypothalamiques.", "reponse": true, "explication": "Les osmorécepteurs détectent l’augmentation d’osmolarité." },
+
+{ "type": "qcm", "niveau": "expert", "question": "Le FAN est sécrété par :", "choix": ["Les ventricules", "Les oreillettes", "Le rein", "Le pancréas"], "reponse": 1, "explication": "Il est sécrété par les oreillettes en cas d’augmentation de volémie." },
+
+{ "type": "vf", "niveau": "expert", "question": "L’activation du SRAA augmente la pression artérielle.", "reponse": true, "explication": "L’angiotensine II provoque une vasoconstriction." },{ "type": "qcm", "niveau": "expert", "question": "Le pH sanguin normal est compris entre :", "choix": ["7,20–7,30", "7,30–7,35", "7,35–7,45", "7,45–7,55"], "reponse": 2, "explication": "Le pH sanguin normal est compris entre 7,35 et 7,45." },
+
+{ "type": "vf", "niveau": "expert", "question": "Une acidose correspond à un pH inférieur à 7,35.", "reponse": true, "explication": "Un pH inférieur à 7,35 définit une acidose." },
+
+{ "type": "qcm", "niveau": "expert", "question": "Une acidose respiratoire est liée à :", "choix": ["Hyperventilation", "Hypoventilation", "Vomissements", "Diarrhées"], "reponse": 1, "explication": "Une hypoventilation entraîne une accumulation de CO2." },
+
+{ "type": "vf", "niveau": "expert", "question": "Une alcalose respiratoire est liée à une hyperventilation.", "reponse": true, "explication": "Hyperventilation → baisse PaCO2 → alcalose." },
+
+{ "type": "qcm", "niveau": "expert", "question": "La PaCO2 normale est environ :", "choix": ["20–30 mmHg", "30–35 mmHg", "35–45 mmHg", "45–55 mmHg"], "reponse": 2, "explication": "La PaCO2 normale est comprise entre 35 et 45 mmHg." },
+
+{ "type": "vf", "niveau": "expert", "question": "Les reins participent à la régulation du pH sanguin.", "reponse": true, "explication": "Ils régulent les bicarbonates et l’excrétion des ions H+." },
+
+{ "type": "qcm", "niveau": "expert", "question": "Une alcalose métabolique peut être causée par :", "choix": ["Vomissements répétés", "Hypoventilation", "Hypercapnie", "Acidocétose"], "reponse": 0, "explication": "Les vomissements entraînent une perte d’acide gastrique." },
+
+{ "type": "vf", "niveau": "expert", "question": "Une hypercapnie correspond à une augmentation de la PaCO2.", "reponse": true, "explication": "Hypercapnie = excès de CO2 dans le sang." },
+
+{ "type": "qcm", "niveau": "expert", "question": "Les bicarbonates (HCO3-) participent principalement à :", "choix": ["Transport oxygène", "Tampon sanguin", "Coagulation", "Filtration rénale"], "reponse": 1, "explication": "Les bicarbonates jouent un rôle majeur dans le système tampon." },
+
+{ "type": "vf", "niveau": "expert", "question": "Une acidose métabolique peut être observée lors d’une insuffisance rénale.", "reponse": true, "explication": "Les reins n’éliminent plus correctement les ions H+." },{ "type": "qcm", "niveau": "expert", "question": "Le débit cardiaque est égal à :", "choix": ["PA × FC", "FC × VES", "VES ÷ FC", "PA ÷ FC"], "reponse": 1, "explication": "Le débit cardiaque = fréquence cardiaque × volume d’éjection systolique." },
+
+{ "type": "vf", "niveau": "expert", "question": "Une tachycardie correspond à une FC > 100 bpm.", "reponse": true, "explication": "Chez l’adulte, tachycardie si fréquence cardiaque supérieure à 100 bpm." },
+
+{ "type": "qcm", "niveau": "expert", "question": "La pression artérielle moyenne dépend :", "choix": ["Du débit cardiaque", "Des résistances périphériques", "Du volume sanguin", "Toutes les réponses"], "reponse": 3, "explication": "Tous ces facteurs influencent la pression artérielle." },
+
+{ "type": "vf", "niveau": "expert", "question": "Une hypotension peut entraîner une hypoperfusion cérébrale.", "reponse": true, "explication": "Une baisse de pression peut provoquer une syncope." },
+
+{ "type": "qcm", "niveau": "expert", "question": "La précharge correspond :", "choix": ["Résistance éjection", "Volume télédiastolique", "Pression pulmonaire", "Volume sanguin total"], "reponse": 1, "explication": "La précharge correspond au remplissage ventriculaire." },
+
+{ "type": "vf", "niveau": "expert", "question": "La postcharge correspond à la résistance à l’éjection ventriculaire.", "reponse": true, "explication": "Elle dépend des résistances artérielles." },
+
+{ "type": "qcm", "niveau": "expert", "question": "Une bradycardie correspond à :", "choix": ["FC < 40", "FC < 50", "FC < 60", "FC < 70"], "reponse": 2, "explication": "Bradycardie si FC inférieure à 60 bpm." },
+
+{ "type": "vf", "niveau": "expert", "question": "Le ventricule gauche éjecte le sang dans l’aorte.", "reponse": true, "explication": "Il assure la circulation systémique." },
+
+{ "type": "qcm", "niveau": "expert", "question": "La saturation en oxygène normale (SpO2) est :", "choix": ["85–90%", "90–94%", "95–100%", "100% fixe"], "reponse": 2, "explication": "La SpO2 normale est comprise entre 95 et 100%." },
+
+{ "type": "vf", "niveau": "expert", "question": "Une hypoxémie correspond à une baisse de la PaO2.", "reponse": true, "explication": "Hypoxémie = diminution oxygène sanguin." },
+
+{ "type": "qcm", "niveau": "expert", "question": "La PaO2 normale est environ :", "choix": ["40 mmHg", "60 mmHg", "80–100 mmHg", "120 mmHg"], "reponse": 2, "explication": "PaO2 normale entre 80 et 100 mmHg." },
+
+{ "type": "vf", "niveau": "expert", "question": "Une hyperkaliémie peut provoquer des troubles du rythme.", "reponse": true, "explication": "Le potassium influence l’activité électrique cardiaque." },
+
+{ "type": "qcm", "niveau": "expert", "question": "Le système sympathique entraîne :", "choix": ["Bradycardie", "Vasodilatation", "Augmentation FC", "Baisse PA"], "reponse": 2, "explication": "Le système sympathique augmente la fréquence cardiaque." },
+
+{ "type": "vf", "niveau": "expert", "question": "Le système parasympathique ralentit la fréquence cardiaque.", "reponse": true, "explication": "Il agit via le nerf vague." },
+
+{ "type": "qcm", "niveau": "expert", "question": "Une hypovolémie entraîne :", "choix": ["Augmentation PA", "Baisse PA", "Bradycardie", "Hypervolémie"], "reponse": 1, "explication": "Moins de volume sanguin → baisse pression." },
+
+{ "type": "vf", "niveau": "expert", "question": "Le choc hypovolémique est lié à une perte sanguine importante.", "reponse": true, "explication": "Hémorragie massive → chute volémie." },
+
+{ "type": "qcm", "niveau": "expert", "question": "Le nœud sinusal est situé :", "choix": ["Ventricule droit", "Oreillette droite", "Ventricule gauche", "Septum interventriculaire"], "reponse": 1, "explication": "Le nœud sinusal est le pacemaker physiologique." },
+
+{ "type": "vf", "niveau": "expert", "question": "Une fibrillation ventriculaire est une urgence vitale.", "reponse": true, "explication": "Elle entraîne un arrêt circulatoire." },
+
+{ "type": "qcm", "niveau": "expert", "question": "La pression artérielle normale adulte est environ :", "choix": ["100/60 mmHg", "120/80 mmHg", "140/100 mmHg", "160/110 mmHg"], "reponse": 1, "explication": "Valeur de référence adulte." },
+
+{ "type": "vf", "niveau": "expert", "question": "Une hypertension chronique augmente le risque cardiovasculaire.", "reponse": true, "explication": "Elle favorise les complications vasculaires." },{ "type": "qcm", "niveau": "expert", "question": "La fréquence respiratoire normale adulte est :", "choix": ["8–10/min", "12–20/min", "20–30/min", "30–40/min"], "reponse": 1, "explication": "La fréquence respiratoire normale adulte est comprise entre 12 et 20 cycles par minute." },
+
+{ "type": "vf", "niveau": "expert", "question": "Une tachypnée correspond à une augmentation de la fréquence respiratoire.", "reponse": true, "explication": "Tachypnée = FR élevée." },
+
+{ "type": "qcm", "niveau": "expert", "question": "Le volume courant correspond :", "choix": ["Volume maximal inspiré", "Volume respiratoire normal", "Volume résiduel", "Volume expiratoire forcé"], "reponse": 1, "explication": "Le volume courant est le volume d’air inspiré ou expiré lors d’une respiration normale." },
+
+{ "type": "vf", "niveau": "expert", "question": "Les échanges gazeux se font au niveau des alvéoles.", "reponse": true, "explication": "Les alvéoles sont le siège des échanges O2/CO2." },
+
+{ "type": "qcm", "niveau": "expert", "question": "Une hypoventilation entraîne :", "choix": ["Hypocapnie", "Hypercapnie", "Alcalose respiratoire", "Baisse PaCO2"], "reponse": 1, "explication": "Hypoventilation → accumulation de CO2 (hypercapnie)." },
+
+{ "type": "vf", "niveau": "expert", "question": "Une hyperventilation entraîne une baisse de la PaCO2.", "reponse": true, "explication": "Hyperventilation → élimination excessive de CO2." },
+
+{ "type": "qcm", "niveau": "expert", "question": "Le volume résiduel correspond :", "choix": ["Volume expiré normal", "Air restant après expiration forcée", "Air inspiré maximal", "Volume courant"], "reponse": 1, "explication": "Le volume résiduel est l’air restant dans les poumons après expiration maximale." },
+
+{ "type": "vf", "niveau": "expert", "question": "Une hypoxie correspond à un défaut d’oxygénation tissulaire.", "reponse": true, "explication": "Hypoxie = manque d’oxygène au niveau des tissus." },
+
+{ "type": "qcm", "niveau": "expert", "question": "La ventilation alvéolaire dépend :", "choix": ["Volume courant", "Fréquence respiratoire", "Espace mort", "Toutes les réponses"], "reponse": 3, "explication": "La ventilation efficace dépend de tous ces paramètres." },
+
+{ "type": "vf", "niveau": "expert", "question": "L’espace mort anatomique correspond aux voies aériennes sans échange gazeux.", "reponse": true, "explication": "Il comprend les bronches et trachée." },
+
+{ "type": "qcm", "niveau": "expert", "question": "Une baisse de la PaO2 définit :", "choix": ["Hypoxémie", "Hypercapnie", "Acidose", "Alcalose"], "reponse": 0, "explication": "Hypoxémie = diminution pression partielle en oxygène." },
+
+{ "type": "vf", "niveau": "expert", "question": "Le CO2 est principalement transporté sous forme de bicarbonates.", "reponse": true, "explication": "La majorité du CO2 est transportée sous forme HCO3-." },
+
+{ "type": "qcm", "niveau": "expert", "question": "Le centre respiratoire est situé :", "choix": ["Cortex", "Bulbe rachidien", "Hypothalamus", "Moelle épinière"], "reponse": 1, "explication": "Le centre respiratoire est situé dans le bulbe rachidien." },
+
+{ "type": "vf", "niveau": "expert", "question": "Une embolie pulmonaire altère les échanges gazeux.", "reponse": true, "explication": "Elle perturbe la perfusion pulmonaire." },
+
+{ "type": "qcm", "niveau": "expert", "question": "La capacité vitale correspond :", "choix": ["Volume courant", "Volume résiduel", "Volume maximal mobilisable", "Volume inspiratoire seul"], "reponse": 2, "explication": "La capacité vitale est le volume maximal mobilisable entre inspiration et expiration." },
+
+{ "type": "vf", "niveau": "expert", "question": "Une hypoxémie sévère peut entraîner une cyanose.", "reponse": true, "explication": "Manque d’oxygène → coloration bleutée." },
+
+{ "type": "qcm", "niveau": "expert", "question": "La saturation en oxygène (SpO2) est mesurée par :", "choix": ["ECG", "Oxymètre de pouls", "Spiromètre", "Gazométrie seule"], "reponse": 1, "explication": "La SpO2 est mesurée par oxymétrie de pouls." },
+
+{ "type": "vf", "niveau": "expert", "question": "Une insuffisance respiratoire peut entraîner une acidose respiratoire.", "reponse": true, "explication": "Accumulation de CO2 → baisse du pH." },
+
+{ "type": "qcm", "niveau": "expert", "question": "La pression partielle en oxygène (PaO2) normale est :", "choix": ["40 mmHg", "60 mmHg", "80–100 mmHg", "120 mmHg"], "reponse": 2, "explication": "PaO2 normale entre 80 et 100 mmHg." },
+
+{ "type": "vf", "niveau": "expert", "question": "Une hypercapnie peut provoquer des troubles neurologiques.", "reponse": true, "explication": "Excès de CO2 → céphalées, confusion." },{ "type": "qcm", "niveau": "expert", "question": "L’insuline est sécrétée par :", "choix": ["Cellules alpha", "Cellules bêta", "Cellules delta", "Hypophyse"], "reponse": 1, "explication": "L’insuline est sécrétée par les cellules bêta des îlots de Langerhans." },
+
+{ "type": "vf", "niveau": "expert", "question": "L’insuline diminue la glycémie.", "reponse": true, "explication": "Elle favorise l’entrée du glucose dans les cellules." },
+
+{ "type": "qcm", "niveau": "expert", "question": "Le glucagon a pour effet :", "choix": ["Diminuer glycémie", "Augmenter glycémie", "Baisser tension", "Augmenter potassium"], "reponse": 1, "explication": "Le glucagon augmente la glycémie en stimulant la glycogénolyse." },
+
+{ "type": "vf", "niveau": "expert", "question": "Une hyperglycémie correspond à une glycémie > 1,26 g/L à jeun.", "reponse": true, "explication": "Critère diagnostique du diabète." },
+
+{ "type": "qcm", "niveau": "expert", "question": "La glycémie normale à jeun est :", "choix": ["0,3–0,5 g/L", "0,7–1,1 g/L", "1,5–2 g/L", "2–3 g/L"], "reponse": 1, "explication": "Glycémie normale ≈ 0,7 à 1,1 g/L." },
+
+{ "type": "vf", "niveau": "expert", "question": "L’ADH est aussi appelée vasopressine.", "reponse": true, "explication": "ADH = hormone antidiurétique = vasopressine." },
+
+{ "type": "qcm", "niveau": "expert", "question": "L’aldostérone régule principalement :", "choix": ["Glucose", "Calcium", "Sodium", "Oxygène"], "reponse": 2, "explication": "Elle régule la réabsorption du sodium." },
+
+{ "type": "vf", "niveau": "expert", "question": "Le cortisol est une hormone du stress.", "reponse": true, "explication": "Il est sécrété par la corticosurrénale." },
+
+{ "type": "qcm", "niveau": "expert", "question": "La TSH stimule :", "choix": ["Surrénale", "Thyroïde", "Pancréas", "Hypophyse"], "reponse": 1, "explication": "La TSH stimule la thyroïde à produire T3 et T4." },
+
+{ "type": "vf", "niveau": "expert", "question": "Une hypothyroïdie peut entraîner une bradycardie.", "reponse": true, "explication": "Le métabolisme est ralenti." },
+
+{ "type": "qcm", "niveau": "expert", "question": "La calcémie normale est environ :", "choix": ["1 mmol/L", "2,2–2,6 mmol/L", "3–4 mmol/L", "5 mmol/L"], "reponse": 1, "explication": "Calcémie normale ≈ 2,2 à 2,6 mmol/L." },
+
+{ "type": "vf", "niveau": "expert", "question": "La parathormone augmente la calcémie.", "reponse": true, "explication": "Elle stimule la résorption osseuse." },
+
+{ "type": "qcm", "niveau": "expert", "question": "L’adrénaline entraîne :", "choix": ["Bradycardie", "Vasodilatation généralisée", "Augmentation FC", "Hypoglycémie"], "reponse": 2, "explication": "Elle augmente la fréquence cardiaque." },
+
+{ "type": "vf", "niveau": "expert", "question": "Une hypoglycémie sévère peut provoquer un coma.", "reponse": true, "explication": "Le cerveau dépend du glucose." },
+
+{ "type": "qcm", "niveau": "expert", "question": "La sécrétion d’insuline est stimulée par :", "choix": ["Hyperglycémie", "Hypoglycémie", "Hypotension", "Hypoxie"], "reponse": 0, "explication": "L’augmentation de la glycémie stimule l’insuline." },
+
+{ "type": "vf", "niveau": "expert", "question": "Le système endocrinien agit plus lentement que le système nerveux.", "reponse": true, "explication": "Les hormones ont un effet plus prolongé." },
+
+{ "type": "qcm", "niveau": "expert", "question": "La T4 est transformée en T3 au niveau :", "choix": ["Poumon", "Foie", "Cœur", "Rein uniquement"], "reponse": 1, "explication": "La conversion périphérique se fait principalement dans le foie." },
+
+{ "type": "vf", "niveau": "expert", "question": "Une hyperthyroïdie peut entraîner une tachycardie.", "reponse": true, "explication": "Le métabolisme est accéléré." },
+
+{ "type": "qcm", "niveau": "expert", "question": "La prolactine est sécrétée par :", "choix": ["Hypothalamus", "Hypophyse", "Thyroïde", "Surrénale"], "reponse": 1, "explication": "La prolactine est sécrétée par l’hypophyse." },
+
+{ "type": "vf", "niveau": "expert", "question": "Le cortisol augmente la glycémie.", "reponse": true, "explication": "Il favorise la néoglucogenèse." }
+
+
+
+
+
 
   ]
 }
