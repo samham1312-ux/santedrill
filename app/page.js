@@ -24,7 +24,7 @@ export default function Home() {
             SanteDrill
           </h1>
           <p className="text-xl md:text-2xl text-white/90 mb-10 max-w-2xl mx-auto font-medium animate-slide-up" style={{animationDelay: '0.1s'}}>
-            Testez et renforcez vos connaissances médicales avec des quiz professionnels
+            Testez et renforcez vos connaissances avec des quiz éducatifs
           </p>
           
           <Link 
@@ -66,7 +66,7 @@ export default function Home() {
                   </svg>
                 ),
                 title: "Questions validées",
-                desc: "Contenu vérifié par des professionnels de santé"
+                desc: "Contenu éducatif de santé"
               },
               {
                 icon: (
